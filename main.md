@@ -1,11 +1,10 @@
 ---
 title: Sample page
 ---
-
+![](/assets/rt153BHa5LogGk.jpeg)
 # SG Courts Mobile App Use Guide
 
 Check your case files, court calendar, upcoming hearings, venue info online. For use with the Singapore Courts' eLitigation system.
-
 
 ## Getting started
 
@@ -111,6 +110,10 @@ information.
 
 ## Login to the App
 
+
+![](/assets/6VgCekjWMD1Xow.jpeg)
+
+
 Once the app has been downloaded and installed onto your mobile device, launch it and log
 in using your CorpPass credentials. You can use the SingPass app on your mobile phone, if
 you have that all set up.
@@ -124,6 +127,8 @@ If you have more than one law firm profile, you will need to select the correct 
 to use.
 
 ## Dashboard
+
+![](/assets/MNiGC69fIkpakc.png)
 
 Once you have logged in successfully, you will be able to see the dashboard.
 
