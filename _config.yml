@@ -1,7 +1,7 @@
-title: OpenDoc Template #----> Required
+title: SG Courts Mobile App Use Guide
 remote_theme: opendocsg/opendoc-theme
 timezone: Asia/Singapore
-repository: opendocsg/opendoc-template #----> Required
+repository: opendocsg/opendoc-sg-courts-mobile-app-user-guide
 plugins:
   - jekyll-include-cache
 baseurl: ''
@@ -21,20 +21,7 @@ styling_options:
   
 folders:
   - name: '/' #----> '/' for root documents
-    title: 'something'
-    subtitle: this is a subtitle
+    title: 'SG Courts Mobile App Use Guide'
     order:
-      - README.md
-      - sample.md
-  - name: 'Document 1'
-    title: 'Document 1'
-    subtitle: hello
-    order:
-      - page1.md
-      - page2.md
-  - name: 'AA Document 2'
-    title: 'This is the second document'
-    subtitle: 'something 2'
-    order:
-      - page1.md
-      - page2.md
+      - main.md
+
