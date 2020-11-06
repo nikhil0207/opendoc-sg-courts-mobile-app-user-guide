@@ -157,30 +157,27 @@ In the navigation bar at the bottom of the screen, you can:
 
 After you have clicked on the Calendar icon in the dashboard, you will be able to view your
 hearings scheduled in Day, Week or Month view. You are able to view hearings up to 3 days
-by default, you can change the Hearing Period to display via the Settings module.
+by default, you can change the Hearing Period to display via the **Settings** module.
 
 ![](/assets/qU0FNRsmWOyGr0.jpeg)
 
 ## Venue Info
 
-After you have clicked on the Venue Info icon in the dashboard, you will be able to view the
-hearing venues for the 3 courts, by toggling using the top bar:
+After you have clicked on the Venue Info icon in the dashboard, you will be able to view the hearing venues for the 3 courts, by toggling using the top bar: 
 
 * Supreme Court,
 * State Courts, and
 * Family Justice Courts
 
-You are able to view the number of hearings scheduled in the venues as well.
+You are able to view the number of hearings scheduled in the venues as well. 
 
-You can also search for the venue by entering either the venue name or the code.
+You can also search for the venue by entering either the venue name or the code. 
 
-To find out on the hearings scheduled in the venue, you can click on the venue row and view
-the list of hearings scheduled for today.
+To find out more about the hearings scheduled in the venue, you can click on the venue row and view the list of hearings scheduled for today.  
 
-My Hearings
+## My Hearings
 
-After you have clicked on the My Hearings icon in the dashboard, you will be able to view
-your hearings scheduled.
+After you have clicked on the My Hearings icon in the dashboard, you will be able to view your scheduled.
 
 You are able to view hearings up to 3 days by default, you can change the Hearing Period to
 display via the Settings module.
