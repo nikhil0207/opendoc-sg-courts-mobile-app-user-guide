@@ -161,25 +161,30 @@ on the My Cases button to view your cases and your law firm cases.
 
 In the navigation bar at the bottom of the screen, you can:
 
-Click on Home button to return to the Dashboard
-Click on Hearings button to go to the My Hearings module
-Click on Cases button to go to My Cases module
-Click on Venue button to go to Venue Info module
-Click on More button to go to the Application Settings
-Hearing Calendar
+* Click on **Home** button to return to the Dashboard
+* Click on **Hearings** button to go to the My Hearings module
+* Click on **Cases** button to go to My Cases module
+* Click on **Venue** button to go to Venue Info module
+* Click on **More** button to go to the Application Settings
+
+## Hearing Calendar
 
 After you have clicked on the Calendar icon in the dashboard, you will be able to view your
 hearings scheduled in Day, Week or Month view. You are able to view hearings up to 3 days
 by default, you can change the Hearing Period to display via the Settings module.
 
-Venue Info
+
+![](/assets/qU0FNRsmWOyGr0.jpeg)
+
+## Venue Info
 
 After you have clicked on the Venue Info icon in the dashboard, you will be able to view the
 hearing venues for the 3 courts, by toggling using the top bar:
 
-Supreme Court,
-State Courts, and
-Family Justice Courts
+* Supreme Court,
+* State Courts, and
+* Family Justice Courts
+
 You are able to view the number of hearings scheduled in the venues as well.
 
 You can also search for the venue by entering either the venue name or the code.
