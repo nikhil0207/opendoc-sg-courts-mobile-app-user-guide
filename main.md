@@ -179,20 +179,19 @@ To find out more about the hearings scheduled in the venue, you can click on the
 
 After you have clicked on the My Hearings icon in the dashboard, you will be able to view your scheduled.
 
-You are able to view hearings up to 3 days by default, you can change the Hearing Period to
-display via the Settings module.
+![](/assets/MyHearings.jfif)
 
-You can also search for the hearings by entering keyword to search based on either of the
-following:
+You are able to view hearings up to 3 days by default, you can change the Hearing Period to display via the **Settings** module. 
 
-Case Number
-Case title
-Hearing Time
-Hearing Type
-Venue
+You can also search for hearings, by entering any of the following into the search bar:
+
+* Case Number
+* Case title
+* Hearing Time
+* Hearing Type
+* Venue
 `
-
-My Cases
+## My Cases
 
 After you have clicked on the My Cases icon in the dashboard, you will be able to view your
 cases and your law firm cases.
