@@ -190,8 +190,11 @@ You can also search for hearings, by entering any of the following into the sear
 * Hearing Time
 * Hearing Type
 * Venue
+
+## My Cases 
+
 `
-## My Cases
+
 
 After you have clicked on the My Cases icon in the dashboard, you will be able to view your
 cases and your law firm cases.
