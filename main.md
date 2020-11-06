@@ -8,35 +8,34 @@ Check your case files, court calendar, upcoming hearings, venue info online. For
 
 ## Getting started
 
-Thank you for showing your interest in the testing for the SG Courts Mobile App (“the App”).
-The App will be the focal point for the Judiciary’s e-services.
+Thank you for showing your interest in the testing for the SG Courts Mobile App (“the App”). The App will be the focal point for the Judiciary’s e-services. 
 
 The App allows for:
 
 - access to your case files;
 - access to your hearing calendar; and
-- access to your upcoming hearing list
+- access to your upcoming hearing list.
 
-Future versions of the App will incorporate other E-services. For example, potentially the
-ability to take queue tickets remotely for hearings, or even to conduct selected hearings via
-video/teleconference.
+Future versions of the App will incorporate other E-services. For example, potentially the ability to take queue tickets remotely for hearings, or even to conduct selected hearings via video/teleconference. 
+
+Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
 
 ## Releases and Updates
 
-Preview the latest features: Try out the newest features. (Sometimes these may be a little
-rough around the edges.)
+Try out the newest features. (Sometimes these may be a little
+rough around the edges.) 
 
-- Login using your CorpPass credentials
-- Biometric login (option to enable after initial CorpPass login)
-- Access your eLitigation cases
-- View your upcoming hearings
-- No extra charge for using the app!
-- Take Q ticket remotely for hearings*
-- Attend virtual hearings*
-* planned feature
+-	Login using your CorpPass credentials
+-	Biometric login (option to enable after initial CorpPass login)
+-	Access your eLitigation cases
+-	View your upcoming hearings
+-	No charge for using the app!
+-	Take Q ticket remotely for hearings*
+-	Attend virtual hearings*
 
-To find out more about our latest releases and updates, check our [release notes\(https://tinyurl.com/1judiciary) for more
-information.
+(*) planned feature
+
+To find out more about our latest releases and updates, check our [release notes](https://tinyurl.com/sgcourtsappupdates) for more information.  
 
 ## Install for iPhones and iPads
 
@@ -99,52 +98,40 @@ If asked, enter your Apple ID and password. The updates will download and instal
 
 **Android devices**
 
-On your Android phone or tablet, open the Play Store app
+On your Android phone or tablet, open the Play Store app.
 
 At the top left, tap Menu = > My apps & games.
 
-Under "Updates," find SG Courts Mobile App
+Under "Updates," find SG Courts Mobile App.
 
 If you're having problems updating the app, check our troubleshooting guide for more
 information.
 
 ## Login to the App
 
-
-![](/assets/6VgCekjWMD1Xow.jpeg)
-
-
-Once the app has been downloaded and installed onto your mobile device, launch it and log
-in using your CorpPass credentials. You can use the SingPass app on your mobile phone, if
-you have that all set up.
+Once the app has been downloaded and installed onto your mobile device, launch it and log in using your CorpPass credentials. You can use the SingPass Mobile app on your mobile phone, if you have that all set up. 
 
 Note: you must be an existing eLitigation subscriber.
 
-Click on the **CorpPass icon** and Sign in with your **CorpPass credentials** (UEN/Entity ID,
-CorpPass ID, Password).
+Click on the **CorpPass icon** and Sign in with your **CorpPass credentials** (UEN/Entity ID, CorpPass ID, Password).
 
-If you have more than one law firm profile, you will need to select the correct law firm profile
-to use.
+If you have more than one law firm profile, you will need to select the correct law firm profile to use.
+
+![](/assets/6VgCekjWMD1Xow.jpeg)
 
 ## Dashboard
-
-![](/assets/MNiGC69fIkpakc.png)
 
 Once you have logged in successfully, you will be able to see the dashboard.
 
 **Header Panel**
 
-In the Header panel, it contains a Logged in via CorpPass indicator, your login name and
-your law firm name.  You can choose to Log out of the app from here. This will lead you to
-the login screen.
+In the Header panel, it contains a Logged in via CorpPass indicator, your **login name** and your **law firm name**.  You can choose to **Log out** of the app from here. This will lead you to the login screen. 
 
-At the top right corner, you can read your case notifications by clicking on the bell icon.
+At the top right corner, you can read your **case notifications** by clicking on the bell icon.
 
 **Quick Links Panel**
 
-In the Quick Links panel, you can click on the Calendar icon and it will lead you to view your
-Hearings Calendar. You can also click on the Venue Info icon and it will lead you to view the
-hearing venues in the courts.
+In the Quick Links panel, you can click on the **Calendar** icon and it will lead you to view your Hearings Calendar. You can also click on the **Venue Info** icon and it will lead you to view the hearing venues in the courts.
 
 **Overview Panel**
 
@@ -167,12 +154,13 @@ In the navigation bar at the bottom of the screen, you can:
 * Click on **Venue** button to go to Venue Info module
 * Click on **More** button to go to the Application Settings
 
+![](/assets/MNiGC69fIkpakc.png)
+
 ## Hearing Calendar
 
 After you have clicked on the Calendar icon in the dashboard, you will be able to view your
 hearings scheduled in Day, Week or Month view. You are able to view hearings up to 3 days
 by default, you can change the Hearing Period to display via the Settings module.
-
 
 ![](/assets/qU0FNRsmWOyGr0.jpeg)
 
