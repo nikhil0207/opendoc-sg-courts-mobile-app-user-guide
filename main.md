@@ -191,3 +191,140 @@ You can also search for hearings, by entering any of the following into the sear
 * Venue
 
 ## My Cases 
+After you have clicked on the My Cases icon in the dashboard, you will be able to view your cases and your law firm cases. 
+
+You can also search for your cases and your law firm’s cases by entering by entering either of the following into the search bar:
+
+- Case number 
+- Case name
+
+Alternatively, you can click on the Filter icon at the right side of the keyword search textbox, to filter the list of cases by the following:
+
+-	Forum
+-	Case Type
+-	Case Serial Number
+-	Case Year
+-	Sub Case Type
+-	Sub Case Serial Number
+-	Sub Case Year
+
+Click on the **Case row** to view the case file in detail.
+
+![](/assets/Case Row.png)
+![](/assets/Case File and Search.jfif)
+
+### View Case File
+
+After the case row is clicked, you will be able to view the case file with the following tabs:
+
+- **Case** – this tab contains Case Information, Nature of Case, Claim details (if applicable), Case Relationships.
+-	**Sub Cases** – this tab contains the sub cases that are created in the main case
+-	**Party** – this tab contains the Party Information.
+-	**Hearings** – this tab contains the list of hearings scheduled for the case. You can also use keyword search in the hearing list. 
+-	**Documents** – this tab contains the list of documents filed in the case. You can also use keyword search in the document list. Refer to the next section for more details. 
+
+
+### View Case Documents
+
+You are able to open and view the documents in the Documents tab. 
+
+If you like to reduce the use of mobile/telco bandwidth, you can choose to turn on **Document Cache** in the **Settings** module, the Documents will be stored on your device so that it does not have to be fetched from the server each time. The cached documents have a *green* icon.
+
+Open and Cache document locally by switching on the **Document Cache** toggle, so system does not need to retrieve it from the server again next time.   
+
+**Recommendation**: Use WIFI to reduce the use of mobile/telco bandwidth when opening large documents.
+
+![](/assets/Documents.png) 
+
+![](/assets/DocumentView1.png)
+
+## Settings
+In the Settings module, you can change the following 
+
+### Application related
+**Records displayed per page **
+
+This setting defines the number of records to load when you scroll downwards to load more page(s). 
+
+It is defaulted to 10 records. You can choose to load up to 50 records per page. 
+
+**Document Cache**
+
+This setting, when enabled, allows you to cache documents when the document is opened. 
+You can also configure to clear the document cache after every [x] number of days. The default is 5 days, max up to 15 days. 
+
+You can also manually clear all cached documents by clicking on the Clear button. 
+
+**Hearing Period to display in Calendar**
+
+This setting defines the period of hearings to be displayed in the calendar. The default is 3 days, max up to 3 months. 
+
+### Security related
+
+**Login using Touch ID/Fingerprint/Face ID**
+
+This is the biometric authentication feature for easy login to the app. If you enable Touch ID/Fingerprint/Face ID, you will not need to use CorpPass credentials in the subsequent logins after the initial setting up of the App. The App Notifications will be enabled after the biometric authentication is enabled. 
+
+**Enable Notifications**
+
+This setting will be enabled when the biometric feature is enabled. It is defaulted to receive notifications for all cases. You can choose to change to either of the following:
+
+-	**None** – this means disabling notifications for all cases.
+-	**My Cases** – this means enabling notifications for your cases only. 
+-	**All Cases** – this means enabling notifications for all the cases under your law firm. 
+
+## Give us your feedback
+
+Your feedback will help us improve the app.
+
+Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](https://mailto:elitigation@crimsonlogic.com.sg).
+
+Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
+
+You can give feedback by clicking the “Submit Feedback” button within the app. It can be found by clicking on the “More …” icon on the home bar at the bottom of the screen. Alternatively, You can also provide feedback at: https://tinyurl.com/1judiciary. 
+
+## FAQ
+
+### What is SG Courts Mobile App?
+
+SG Courts Mobile App is a mobile application that is available on iOS and Android operating systems. You can use it to:
+-	access to your case files;
+-	access to your hearing calendar; and
+-	access to your upcoming hearing list.
+
+More features will be added to the app so keep your app updated!
+### Who is eligible for SG Courts Mobile App?
+
+The users who are eligible for SG Courts Mobile App are the existing eLitigation subscribers. 
+
+### Is the SG Courts Mobile App free?
+
+Yes! SG Courts Mobile App is free. All you need is a smartphone and internet connection to log in, even when you are overseas.
+
+### Can I install the SG Courts Mobile app on multiple devices?
+
+SG Courts Mobile App can be installed on multiple mobile device at a time. 
+
+### How do I download and install SG Courts Mobile App?
+
+You can refer to the section Install for iPhones and iPads or Install for Android for more details. 
+### Which are the supported devices for SG Courts Mobile App?
+
+The supported devices are:
+-	Android devices 
+-	iPhone
+-	iPAD
+
+### How do I enable my biometric authentication?
+
+You can refer to the section on Login using Touch ID/Fingerprint/Face ID to enable to biometric authentication. 
+
+### Will SG Courts Mobile App have access to all my personal files in my phone?
+
+The SG Courts Mobile App requires your "Device ID" to tie your device to your eLitigation account as part of the verification process during logins. It is a common requirement for apps to request for certain permissions so as to facilitate transactions. Please be assured that the app does not access, read or store any of your personal files.
+
+### Where can I get help?
+
+You can contact us at: elitigation@crimsonlogic.com.sg.
+
+**If you are unable to find an answer to your query, please submit your [feedback](https://tinyurl.com/1judiciary) to let us know how we can help you.**
