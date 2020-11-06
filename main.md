@@ -135,14 +135,11 @@ In the Quick Links panel, you can click on the **Calendar** icon and it will lea
 
 **Overview Panel**
 
-In the Overview panel, you can click on the My Hearings and My Cases icons to access
-your hearings and case files.
+In the Overview panel, you can click on the **My Hearings** and **My Cases** icons to access your hearings and case files.
 
-You can see the number of hearings scheduled for today in the My Hearings button. Click
-on the My Hearings button to view hearings and get Q Ticket.
+You can see the number of hearings scheduled for today in the **My Hearings** button. Click on the My Hearings button to view hearings and get Q Ticket.
 
-You can also see the number of cases you are representing in the My Cases button. Click
-on the My Cases button to view your cases and your law firm cases.
+You can also see the number of cases you are representing in the **My Cases** button. Click on the My Cases button to view your cases and your law firm cases.
 
 **Navigation Bar**
 
