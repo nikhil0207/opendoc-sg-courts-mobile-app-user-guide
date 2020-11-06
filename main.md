@@ -1,11 +1,10 @@
 ---
 title: Sample page
 ---
-
+![](/assets/rt153BHa5LogGk.jpeg)
 # SG Courts Mobile App Use Guide
 
 Check your case files, court calendar, upcoming hearings, venue info online. For use with the Singapore Courts' eLitigation system.
-
 
 ## Getting started
 
@@ -111,6 +110,10 @@ information.
 
 ## Login to the App
 
+
+![](/assets/6VgCekjWMD1Xow.jpeg)
+
+
 Once the app has been downloaded and installed onto your mobile device, launch it and log
 in using your CorpPass credentials. You can use the SingPass app on your mobile phone, if
 you have that all set up.
@@ -124,6 +127,8 @@ If you have more than one law firm profile, you will need to select the correct 
 to use.
 
 ## Dashboard
+
+![](/assets/MNiGC69fIkpakc.png)
 
 Once you have logged in successfully, you will be able to see the dashboard.
 
@@ -156,25 +161,30 @@ on the My Cases button to view your cases and your law firm cases.
 
 In the navigation bar at the bottom of the screen, you can:
 
-Click on Home button to return to the Dashboard
-Click on Hearings button to go to the My Hearings module
-Click on Cases button to go to My Cases module
-Click on Venue button to go to Venue Info module
-Click on More button to go to the Application Settings
-Hearing Calendar
+* Click on **Home** button to return to the Dashboard
+* Click on **Hearings** button to go to the My Hearings module
+* Click on **Cases** button to go to My Cases module
+* Click on **Venue** button to go to Venue Info module
+* Click on **More** button to go to the Application Settings
+
+## Hearing Calendar
 
 After you have clicked on the Calendar icon in the dashboard, you will be able to view your
 hearings scheduled in Day, Week or Month view. You are able to view hearings up to 3 days
 by default, you can change the Hearing Period to display via the Settings module.
 
-Venue Info
+
+![](/assets/qU0FNRsmWOyGr0.jpeg)
+
+## Venue Info
 
 After you have clicked on the Venue Info icon in the dashboard, you will be able to view the
 hearing venues for the 3 courts, by toggling using the top bar:
 
-Supreme Court,
-State Courts, and
-Family Justice Courts
+* Supreme Court,
+* State Courts, and
+* Family Justice Courts
+
 You are able to view the number of hearings scheduled in the venues as well.
 
 You can also search for the venue by entering either the venue name or the code.
