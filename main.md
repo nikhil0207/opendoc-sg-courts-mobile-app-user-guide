@@ -1,7 +1,6 @@
 ---
 title: Sample page
 ---
-![](/assets/rt153BHa5LogGk.jpeg)
 # SG Courts Mobile App Use Guide
 
 Check your case files, court calendar, upcoming hearings, venue info online. For use with the Singapore Courts' eLitigation system.
