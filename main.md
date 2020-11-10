@@ -34,66 +34,7 @@ rough around the edges.)
 
 (*) planned feature
 
-To find out more about our latest releases and updates, check our Release Notes for more information.  
-
-## Release Notes
-
-### Version 1.7.1 
-*released on 5 Nov 2020*
-
-**What's new**
-- Temporary rebranding of the App
-- For Law Firm Users who login using CorpPass
-	- Rename Upcoming Hearings to My Hearings.
-	- View the list of court hearing venues and your hearings scheduled in the venue for the day.
-	- Removal of Case Title for FJC cases in My Hearings and Venue Info.
-	- See an icon on the hearing in My Hearings if the case is represented by you (who is logged in).
-	- Court orders will have Authentic Court Order features.
-	- Security improvements.
-
-**Known Issues**
-- Document sharing for iOS is not available.
-
-### Version 1.6.10
-
-**What's new**
-- Law Firm Users who login using CorpPass
-	- View hearings in the Hearing List for Today, Tomorrow, This Week, or Later (up to the hearing period selected in the settings)
-	- Display hearing outcomes (if provided) in the Hearing List.
-	- Fix Settings page to allow scrolling if the device screen size is smaller.
-	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
-	- Choose to enable notifications for All cases, My cases, or None (Disable notifications).
-	- Share documents by using the icon at the top right when the case document is opened.
-	- See an icon on the case in Law Firm Cases if the case is represented by you (who is logged in).
-
-**Known Issues**
-- Document sharing of court order will not have Authentic Court Orders features.
-- Intermittent display issues with venue info and UI alignment issues will be made available in the upcoming releases.
-
-### Version 1.6.9
-
-**What's new**
-1. Law Firm Users who login using CorpPass
-
-	- View hearings in the Hearing List for Today, Tomorrow, This Week, or Later (up to the hearing period selected in the settings)
-	- Display hearing outcomes (if provided) in the Hearing List.
-	- Fix Settings page to allow scrolling if the device screen size is smaller.
-	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
-	- Choose to enable notifications for All cases, My cases, or None (Disable notifications).
-	- Share documents by using the icon at the top right when the case document is opened.
-	- See an icon on the case in Law Firm Cases if the case is represented by you (who is logged in).
-
-2. Litigant in person can login to the app using SingPass
-
-	- Access case(s), case related information and document(s) filed.
-	- Share documents by using the icon at the top right when the case document is opened.
-	- View hearings scheduled in the Upcoming Hearing List and Calendar.
-	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
-
-**Known Issues**
-
-* Document sharing of court order will not have Authentic Court Orders features.
-* Intermittent display issues with venue info and UI alignment issues will be made available in the upcoming releases.
+To find out more about our latest releases and updates, check our [Release Notes](https://sg-courts-mobile-app-user-guide.opendoc.gov.sg/main.html#release-notes) for more information.  
 
 ## Install for iPhones and iPads
 
@@ -340,6 +281,65 @@ Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](https://mail
 Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
 
 You can give feedback by clicking the “Submit Feedback” button within the app. It can be found by clicking on the “More …” icon on the home bar at the bottom of the screen. Alternatively, You can also provide feedback at: https://tinyurl.com/1judiciary. 
+
+## Release Notes
+
+### Version 1.7.1 
+*released on 5 Nov 2020*
+
+**What's new**
+- Temporary rebranding of the App
+- For Law Firm Users who login using CorpPass
+	- Rename Upcoming Hearings to My Hearings.
+	- View the list of court hearing venues and your hearings scheduled in the venue for the day.
+	- Removal of Case Title for FJC cases in My Hearings and Venue Info.
+	- See an icon on the hearing in My Hearings if the case is represented by you (who is logged in).
+	- Court orders will have Authentic Court Order features.
+	- Security improvements.
+
+**Known Issues**
+- Document sharing for iOS is not available.
+
+### Version 1.6.10
+
+**What's new**
+- Law Firm Users who login using CorpPass
+	- View hearings in the Hearing List for Today, Tomorrow, This Week, or Later (up to the hearing period selected in the settings)
+	- Display hearing outcomes (if provided) in the Hearing List.
+	- Fix Settings page to allow scrolling if the device screen size is smaller.
+	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
+	- Choose to enable notifications for All cases, My cases, or None (Disable notifications).
+	- Share documents by using the icon at the top right when the case document is opened.
+	- See an icon on the case in Law Firm Cases if the case is represented by you (who is logged in).
+
+**Known Issues**
+- Document sharing of court order will not have Authentic Court Orders features.
+- Intermittent display issues with venue info and UI alignment issues will be made available in the upcoming releases.
+
+### Version 1.6.9
+
+**What's new**
+1. Law Firm Users who login using CorpPass
+
+	- View hearings in the Hearing List for Today, Tomorrow, This Week, or Later (up to the hearing period selected in the settings)
+	- Display hearing outcomes (if provided) in the Hearing List.
+	- Fix Settings page to allow scrolling if the device screen size is smaller.
+	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
+	- Choose to enable notifications for All cases, My cases, or None (Disable notifications).
+	- Share documents by using the icon at the top right when the case document is opened.
+	- See an icon on the case in Law Firm Cases if the case is represented by you (who is logged in).
+
+2. Litigant in person can login to the app using SingPass
+
+	- Access case(s), case related information and document(s) filed.
+	- Share documents by using the icon at the top right when the case document is opened.
+	- View hearings scheduled in the Upcoming Hearing List and Calendar.
+	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
+
+**Known Issues**
+
+* Document sharing of court order will not have Authentic Court Orders features.
+* Intermittent display issues with venue info and UI alignment issues will be made available in the upcoming releases.
 
 ## FAQ
 
