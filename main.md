@@ -2,8 +2,7 @@
 title: Sample page
 ---
 # SG Courts Mobile App Use Guide
-Check your case files, court calendar, upcoming hearings, venue info online. For use with the Singapore Courts' eLitigation system.
-
+Check your case files, court calendar, upcoming hearings, venue info online. For use with the Singapore Courts' eLitigation system. 
 
 ## Setting started
 
@@ -95,6 +94,8 @@ Note: you must be an existing eLitigation subscriber.
 Click on the **CorpPass icon** and Sign in with your **CorpPass credentials** (UEN/Entity ID, CorpPass ID, Password).
 
 If you have more than one law firm profile, you will need to select the correct law firm profile to use.
+
+![](/assets/1_Login.png)
 
 ## Dashboard
 
