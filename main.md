@@ -99,7 +99,9 @@ If you have more than one law firm profile, you will need to select the correct 
 
 ## Dashboard
 
-Once you have logged in successfully, you will be able to see the dashboard.
+Once you have logged in successfully, you will be able to see the dashboard and prompted to enable biometric authentication. You will be able to login to the app using your fingerprint and receive app notifications after it's enabled.  
+
+![](/assets/2_Dashboard.png)
 
 **Header Panel**
 
@@ -109,7 +111,7 @@ At the top right corner, you can read your **case notifications** by clicking on
 
 **Quick Links Panel**
 
-In the Quick Links panel, you can click on the **Calendar** icon and it will lead you to view your Hearings Calendar. You can also click on the **Venue Info** icon and it will lead you to view the hearing venues in the courts.
+In the Quick Links panel, you can click on the **Calendar** icon and it will lead you to view your Hearings Calendar. You can also click on the **Venue Info** icon and it will lead you to view the hearing venues in the courts. You can click on the **Feedback** icon and give your feedbacks on the App.
 
 **Overview Panel**
 
@@ -128,8 +130,6 @@ In the navigation bar at the bottom of the screen, you can:
 * Click on **Cases** button to go to My Cases module
 * Click on **Venue** button to go to Venue Info module
 * Click on **More** button to go to the Application Settings
-
-![](/assets/MNiGC69fIkpakc.png)
 
 ## Hearing Calendar
 
