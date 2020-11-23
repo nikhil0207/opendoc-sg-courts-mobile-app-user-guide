@@ -28,7 +28,7 @@ rough around the edges.)
 -	Biometric login (option to enable after initial CorpPass login)
 -	Access your eLitigation cases
 -	View your upcoming hearings
--	No charge for using the app!
+-	No charge for using the App!
 -	Take Q ticket remotely for hearings*
 -	Attend virtual hearings*
 
@@ -42,7 +42,7 @@ To find out more about our latest releases and updates, check our [Release Notes
 
 Download SG Courts Mobile App for iPhones & iPads.
 
-This app is available for:
+This App is available for:
 
 - iPad, iPhone, and iPod Touch
 - iOS 12 or later
@@ -89,26 +89,26 @@ One your iPhone & iPad, open the App Store.
 
 At the top right, tap Profile.
 
-Scroll down to "Available Updates" and search for SG Courts mobile app.
+Scroll down to "Available Updates" and search for SG Courts Mobile App.
 
-If the app is listed, tap **Update** to install.
+If the App is listed, tap **Update** to install.
 
 If asked, enter your Apple ID and password. The updates will download and install.
 
 **Android devices**
 
-On your Android phone or tablet, open the Play Store app.
+On your Android phone or tablet, open the Play Store App.
 
-At the top left, tap Menu = > My apps & games.
+At the top left, tap Menu = > My Apps & Games.
 
 Under "Updates," find SG Courts Mobile App.
 
-If you're having problems updating the app, check our troubleshooting guide for more
+If you're having problems updating the App, check our troubleshooting guide for more
 information.
 
 ## Login to the App
 
-Once the app has been downloaded and installed onto your mobile device, launch it and log in using your CorpPass credentials. You can use the SingPass Mobile app on your mobile phone, if you have that all set up. 
+Once the App has been downloaded and installed onto your mobile device, launch it and log in using your CorpPass credentials. You can use the SingPass Mobile App on your mobile phone, if you have that all set up. 
 
 Note: you must be an existing eLitigation subscriber.
 
@@ -124,7 +124,7 @@ Once you have logged in successfully, you will be able to see the dashboard.
 
 **Header Panel**
 
-In the Header panel, it contains a Logged in via CorpPass indicator, your **login name** and your **law firm name**.  You can choose to **Log out** of the app from here. This will lead you to the login screen. 
+In the Header panel, it contains a Logged in via CorpPass indicator, your **login name** and your **law firm name**.  You can choose to **Log out** of the App from here. This will lead you to the login screen. 
 
 At the top right corner, you can read your **case notifications** by clicking on the bell icon.
 
