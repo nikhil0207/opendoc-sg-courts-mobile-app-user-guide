@@ -94,7 +94,8 @@ Click on the **CorpPass icon** and Sign in with your **CorpPass credentials** (U
 
 If you have more than one law firm profile, you will need to select the correct law firm profile to use.
 
-![](/assets/6VgCekjWMD1Xow.jpeg)
+![](/assets/01_Login.png)
+
 
 ## Dashboard
 
