@@ -31,7 +31,7 @@ Try out the newest features. (Sometimes these may be a little rough around the e
 
 (*) planned feature
 
-To find out more about our latest releases and updates, check our [Release Notes](https://sg-courts-mobile-app-user-guide.opendoc.gov.sg/main.html#release-notes) for more information.  
+To find out more about our latest releases and updates, check our **[Release Notes](https://sg-courts-mobile-app-user-guide-staging.opendoc.gov.sg/main.html#release-notes)** for more information.   
 
 ## Install for iPhones and iPads
 
