@@ -101,7 +101,7 @@ If you have more than one law firm profile, you will need to select the correct 
 
 Once you have logged in successfully, you will be able to see the dashboard and prompted to enable biometric authentication. You will be able to login to the app using your fingerprint and receive app notifications after it's enabled.  
 
-![](/assets/2_Dashboard.png)
+
 
 **Header Panel**
 
