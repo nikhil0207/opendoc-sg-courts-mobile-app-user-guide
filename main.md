@@ -219,7 +219,7 @@ In the Settings module, you can define the following settings.
 
 ### Application related
 
-**Records displayed per page **
+Records displayed per page 
 
 This setting defines the number of records to load when you scroll downwards to load more page(s).  It is defaulted to 10 records. You can choose to load up to 50 records per page. 
 
