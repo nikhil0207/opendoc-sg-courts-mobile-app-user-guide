@@ -190,7 +190,6 @@ Click on the **Case row** to view the case file in detail.
 
 ![](/assets/6_MyCases.png)
 
-
 ### View Case File
 
 After the case row is clicked, you will be able to view the case file with the following tabs:
