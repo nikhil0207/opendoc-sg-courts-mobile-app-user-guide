@@ -101,8 +101,7 @@ If you have more than one law firm profile, you will need to select the correct 
 
 Once you have logged in successfully, you will be able to see the dashboard and prompted to enable biometric authentication. You will be able to login to the app using your fingerprint and receive app notifications after it's enabled.  
 
-
-
+![](/assets/2a_Dashboard.png)
 
 **Header Panel**
 
@@ -137,7 +136,7 @@ In the navigation bar at the bottom of the screen, you can:
 After you have clicked on the Calendar icon in the dashboard, you will be able to view your
 hearings scheduled in Day, Week or Month view. You are able to view hearings up to 3 days before and after by default, you can change the Hearing Period to display via the **Settings** module.
 
-![](/assets/qU0FNRsmWOyGr0.jpeg)
+
 
 ## Venue Info
 
