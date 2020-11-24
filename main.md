@@ -350,9 +350,9 @@ You can refer to the section Install for iPhones and iPads or Install for Androi
 ### Which are the supported devices for SG Courts Mobile App?
 
 The supported devices are:
--	Android devices 
--	iPhone
--	iPAD
+* Android devices 
+* iPhone
+* iPAD
 
 ### How do I enable my biometric authentication?
 
@@ -366,4 +366,4 @@ The SG Courts Mobile App requires your "Device ID" to tie your device to your eL
 
 You can contact us at: elitigation@crimsonlogic.com.sg.
 
-**If you are unable to find an answer to your query, please submit your [feedback](https://tinyurl.com/1judiciary) to let us know how we can help you.**
+**If you are unable to find an answer to your query, please submit your [feedback](https://tinyurl.com/sgcourtsfeedback) to let us know how we can help you.**
