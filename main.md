@@ -188,8 +188,8 @@ Alternatively, you can click on the Filter icon at the right side of the keyword
 
 Click on the **Case row** to view the case file in detail.
 
-![](/assets/Case Row.png)
-![](/assets/Case File and Search.jfif)
+![](/assets/6_MyCases.png)
+
 
 ### View Case File
 
