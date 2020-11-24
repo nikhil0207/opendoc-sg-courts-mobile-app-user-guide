@@ -200,6 +200,7 @@ After the case row is clicked, you will be able to view the case file with the f
 -	**Hearings** – this tab contains the list of hearings scheduled for the case. You can also use keyword search in the hearing list. 
 -	**Documents** – this tab contains the list of documents filed in the case. You can also use keyword search in the document list. Refer to the next section for more details. 
 
+![](/assets/7_CaseFile.png)
 
 ### View Case Documents
 
