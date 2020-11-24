@@ -253,7 +253,7 @@ This setting will be enabled when the biometric feature is enabled. It is defaul
 
 Your feedback will help us improve the app.
 
-Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](https://mailto:elitigation@crimsonlogic.com.sg).
+Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crimsonlogic.com.sg).
 
 Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
 
