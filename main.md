@@ -250,6 +250,8 @@ This setting will be enabled when the biometric feature is enabled. It is defaul
 -	**My Cases** – this means enabling notifications for your cases only. 
 -	**All Cases** – this means enabling notifications for all the cases under your law firm. 
 
+-----
+
 ## Give us your feedback
 
 Your feedback will help us improve the app.
@@ -259,7 +261,6 @@ Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:eliti
 Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
 
 You can give feedback by clicking the “Feedback” button on the Dashboard in the App.  Alternatively, You can also provide feedback at: [https://tinyurl.com/sgcourtsfeedback](https://tinyurl.com/sgcourtsfeedback). 
-
 
 -----
 ## Release Notes
