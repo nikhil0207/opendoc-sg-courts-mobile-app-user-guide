@@ -257,7 +257,7 @@ Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:eliti
 
 Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
 
-You can give feedback by clicking the “Feedback” button on the Dashboard in the App.  Alternatively, You can also provide feedback at: https://tinyurl.com/1judiciary. 
+You can give feedback by clicking the “Feedback” button on the Dashboard in the App.  Alternatively, You can also provide feedback at: [https://tinyurl.com/sgcourtsfeedback](https://tinyurl.com/sgcourtsfeedback). 
 
 ## Release Notes
 
