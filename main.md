@@ -251,7 +251,6 @@ This setting will be enabled when the biometric feature is enabled. It is defaul
 -	**All Cases** – this means enabling notifications for all the cases under your law firm. 
 
 -----
-
 ## Give us your feedback
 
 Your feedback will help us improve the app.
