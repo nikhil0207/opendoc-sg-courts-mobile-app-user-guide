@@ -218,6 +218,7 @@ Open and Cache document locally by switching on the **Document Cache** toggle, s
 In the Settings module, you can define the following settings.  
 
 ### Application related
+
 **Records displayed per page **
 
 This setting defines the number of records to load when you scroll downwards to load more page(s). 
