@@ -260,6 +260,8 @@ Information collected will be used only for purposes of the beta test – inform
 
 You can give feedback by clicking the “Feedback” button on the Dashboard in the App.  Alternatively, You can also provide feedback at: [https://tinyurl.com/sgcourtsfeedback](https://tinyurl.com/sgcourtsfeedback). 
 
+
+-----
 ## Release Notes
 
 ### Version 1.7.1 
