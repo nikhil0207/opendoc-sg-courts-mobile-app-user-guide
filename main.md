@@ -221,9 +221,8 @@ In the Settings module, you can define the following settings.
 
 **Records displayed per page **
 
-This setting defines the number of records to load when you scroll downwards to load more page(s). 
+This setting defines the number of records to load when you scroll downwards to load more page(s).  It is defaulted to 10 records. You can choose to load up to 50 records per page. 
 
-It is defaulted to 10 records. You can choose to load up to 50 records per page. 
 
 **Document Cache**
 
@@ -238,7 +237,7 @@ This setting defines the period of hearings to be displayed in the calendar. The
 
 ### Security related
 
-**Login using Touch ID/Fingerprint/Face ID**
+**Login using Touch ID/Fingerprint **
 
 This is the biometric authentication feature for easy login to the app. If you enable Touch ID/Fingerprint/Face ID, you will not need to use CorpPass credentials in the subsequent logins after the initial setting up of the App. The App Notifications will be enabled after the biometric authentication is enabled. 
 
@@ -246,9 +245,9 @@ This is the biometric authentication feature for easy login to the app. If you e
 
 This setting will be enabled when the biometric feature is enabled. It is defaulted to receive notifications for all cases. You can choose to change to either of the following:
 
--	**None** – this means disabling notifications for all cases.
--	**My Cases** – this means enabling notifications for your cases only. 
--	**All Cases** – this means enabling notifications for all the cases under your law firm. 
+*	**All Cases** – this means enabling notifications for all the cases under your law firm. 
+*	**My Cases** – this means enabling notifications for your cases only. 
+*	**None** – this means disabling notifications for all cases.
 
 -----
 ## Give us your feedback
