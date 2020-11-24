@@ -321,6 +321,7 @@ You can give feedback by clicking the “Feedback” button on the Dashboard in 
 * Document sharing of court order will not have Authentic Court Orders features.
 * Intermittent display issues with venue info and UI alignment issues will be made available in the upcoming releases.
 
+-----
 ## FAQ
 
 ### What is SG Courts Mobile App?
