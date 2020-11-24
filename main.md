@@ -347,6 +347,7 @@ SG Courts Mobile App can be installed on multiple mobile device at a time.
 ### How do I download and install SG Courts Mobile App?
 
 You can refer to the section Install for iPhones and iPads or Install for Android for more details. 
+
 ### Which are the supported devices for SG Courts Mobile App?
 
 The supported devices are:
