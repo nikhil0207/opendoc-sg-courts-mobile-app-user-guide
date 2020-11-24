@@ -215,7 +215,7 @@ Open and Cache document locally by switching on the **Document Cache** toggle, s
 ![](/assets/8_Documents.png)
 
 ## Settings
-In the Settings module, you can change the following 
+In the Settings module, you can define the following settings.  
 
 ### Application related
 **Records displayed per page **
