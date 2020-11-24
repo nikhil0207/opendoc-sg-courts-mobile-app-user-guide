@@ -136,7 +136,7 @@ In the navigation bar at the bottom of the screen, you can:
 After you have clicked on the Calendar icon in the dashboard, you will be able to view your
 hearings scheduled in Day, Week or Month view. You are able to view hearings up to 3 days before and after by default, you can change the Hearing Period to display via the **Settings** module.
 
-
+![](/assets/3_Calendars.png)
 
 ## Venue Info
 
@@ -151,6 +151,8 @@ You are able to view the number of hearings scheduled in the venues as well.
 You can also search for the venue by entering either the venue name or the code. 
 
 To find out more about the hearings scheduled in the venue, you can click on the venue row and view the list of hearings scheduled for today.  
+
+![](/assets/4_VenueInfo.png)
 
 ## My Hearings
 
