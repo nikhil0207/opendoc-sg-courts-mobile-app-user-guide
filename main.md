@@ -152,7 +152,7 @@ You can also search for the venue by entering either the venue name or the code.
 
 To find out more about the hearings scheduled in the venue, you can click on the venue row and view the list of hearings scheduled for today.  
 
-![](/assets/4_VenueInfo.png)
+![](/assets/4a_VenueInfo.png)
 
 ## My Hearings
 
