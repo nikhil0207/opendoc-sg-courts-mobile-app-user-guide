@@ -1,7 +1,7 @@
 ---
 title: Sample page
 ---
-# SG Courts Mobile App Use Guide
+# SG Courts Mobile App User Guide
 Check your case files, court calendar, upcoming hearings, venue info online. For use with the Singapore Courts' eLitigation system. 
 
 ## Getting started
@@ -248,6 +248,8 @@ This setting will be enabled when the biometric feature is enabled. It is defaul
 *	**All Cases** – this means enabling notifications for all the cases under your law firm. 
 *	**My Cases** – this means enabling notifications for your cases only. 
 *	**None** – this means disabling notifications for all cases.
+
+![](/assets/9_Settings.png)
 
 -----
 ## Give us your feedback
