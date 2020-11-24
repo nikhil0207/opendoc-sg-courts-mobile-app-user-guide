@@ -212,7 +212,7 @@ Open and Cache document locally by switching on the **Document Cache** toggle, s
 
 **Recommendation**: Use WIFI to reduce the use of mobile/telco bandwidth when opening large documents.
 
-![](/assets/8_Documents.png)
+![](/assets/8a_Documents.png)
 
 ## Settings
 In the Settings module, you can define the following settings.  
