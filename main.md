@@ -366,6 +366,6 @@ The SG Courts Mobile App requires your "Device ID" to tie your device to your eL
 
 ### Where can I get help?
 
-You can contact us at: elitigation@crimsonlogic.com.sg.
+You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crimsonlogic.com.sg).
 
 **If you are unable to find an answer to your query, please submit your [feedback](https://tinyurl.com/sgcourtsfeedback) to let us know how we can help you.**
