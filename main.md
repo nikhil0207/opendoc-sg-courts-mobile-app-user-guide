@@ -1,6 +1,3 @@
----
-title: Sample page
----
 # SG Courts Mobile App User Guide
 Check your case files, court calendar, upcoming hearings, venue info online. For use with the Singapore Courts' eLitigation system. 
 
@@ -237,7 +234,7 @@ This setting defines the period of hearings to be displayed in the calendar. The
 
 ### Security related
 
-**Login using Touch ID/Fingerprint **
+**Login using Touch ID/Fingerprint**
 
 This is the biometric authentication feature for easy login to the app. If you enable Touch ID/Fingerprint/Face ID, you will not need to use CorpPass credentials in the subsequent logins after the initial setting up of the App. The App Notifications will be enabled after the biometric authentication is enabled. 
 
@@ -264,6 +261,18 @@ You can give feedback by clicking the “Feedback” button on the Dashboard in 
 
 -----
 ## Release Notes
+
+### Version 1.7.2 
+*released on 25 Nov 2020*
+
+**What's new**
+- Updated App Icon, Splash Screen, Login Screen
+- Hearings are marked as "(Vacated)" for vacated hearings. 
+- Added Feedback button in the dashboard.
+- Security improvements.
+
+**Known Issues**
+- Document sharing for iOS is not available.
 
 ### Version 1.7.1 
 *released on 5 Nov 2020*
