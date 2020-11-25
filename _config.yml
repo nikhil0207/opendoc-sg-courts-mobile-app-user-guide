@@ -13,7 +13,7 @@ offline: false
 preload_pages: true
 styling_options:
   primary_brand_color: "#444"
-  logo_path: /assets/logo1.png
+  logo_path: /assets/logo.png
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url: https://form.gov.sg/5cee3d46138e3200109244df
   logo_url: /
