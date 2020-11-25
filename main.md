@@ -265,6 +265,18 @@ You can give feedback by clicking the “Feedback” button on the Dashboard in 
 -----
 ## Release Notes
 
+### Version 1.7.2 
+*released on 25 Nov 2020*
+
+**What's new**
+- Updated App Icon, Splash Screen, Login Screen
+- Hearings are marked as "(Vacated)" for vacated hearings. 
+- Added Feedback button in the dashboard.
+- Security improvements.
+
+**Known Issues**
+- Document sharing for iOS is not available.
+
 ### Version 1.7.1 
 *released on 5 Nov 2020*
 
