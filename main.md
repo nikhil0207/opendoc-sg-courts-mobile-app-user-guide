@@ -237,8 +237,6 @@ This setting defines the period of hearings to be displayed in the calendar. The
 
 ### Security related
 
-**Login using Touch ID/Fingerprint **
-
 This is the biometric authentication feature for easy login to the app. If you enable Touch ID/Fingerprint/Face ID, you will not need to use CorpPass credentials in the subsequent logins after the initial setting up of the App. The App Notifications will be enabled after the biometric authentication is enabled. 
 
 **Enable Notifications**
