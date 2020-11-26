@@ -212,7 +212,7 @@ Open and Cache document locally by switching on the **Document Cache** toggle, s
 ![](/assets/8a_Documents.png)
 
 ## Settings
-In the Settings module, you can define the following settings. 
+In the Settings module, you can define the following settings.
 
 ### Application related
 
