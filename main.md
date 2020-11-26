@@ -382,11 +382,11 @@ You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crim
 
 In this Privacy Policy, terms with initial upper case have the same meaning given to them in the Terms of Use.
 
-1 .  COLLECTION OF INFORMATION
+**1.  COLLECTION OF INFORMATION**
 
 Some personal information is gathered when you are authorised as a user by your employer, e.g. your SingPass access code and contact particulars like address, e-mail address and telephone numbers. Some transactional information is gathered when you use the Services. Personal information relating to parties or other persons with an interest in or connection to cases filed with the Courts will be collected.
 
-2 . USE OF INFORMATION
+**2. USE OF INFORMATION**
 
 Your SingPass / CorpPass access code is required to authenticate your access to the Web Site and use of the Services. We make use of contact particulars to push alerts and notifications to you by email and Short Messaging System text messages if you opt to receive them. Your personal information may be used in conjunction with the Services, eg when electronic forms like writs of summons, originating summonses and summonses are generated, your office address and contact numbers may be used. Some transactional information may be kept as records of your activities. Personal information and transactional information are used to electronically sign every document that you upload, submit or transmit.
 
@@ -394,7 +394,7 @@ Personal information about you may be used by CrimsonLogic to improve our market
 
 Personal information relating to parties or other persons with an interest in or connection to cases filed with the Courts will be kept by the Courts as part of the Services, eg online cause books and registers. Some of such information may be used in conjunction with the Services, eg when electronic forms like probate and letters of administration are generated and to provide online cause book searches.
 
-3 . DISCLOSURE OF INFORMATION
+**3. DISCLOSURE OF INFORMATION**
 
 Except in accordance with this Privacy Policy, CrimsonLogic will not disclose any of your personal information.
 
@@ -402,7 +402,7 @@ You acknowledge and agree that we are permitted to disclose your personal inform
 
 You acknowledge and agree that personal information relating to parties or other persons with an interest in or connection to cases filed with the Courts and kept by the Courts can and will be used and/or re-used as part of the Services. With no intention to be exhaustive use and/or re-use of such information may include, display in the graphical user interfaces of the Services, generation of electronic forms (eg orders of court, writs of execution, registrar's certificates), publication of hearing lists, provision of online cause book searches (whether individually or in bulk), notifying other public authorities of the cause or matter or any order, judgment or other direction flowing from the cause of matter, etc.
 
-4 . COOKIES
+**4. COOKIES**
 
 As part of offering and providing customizable and personalized services, CrimsonLogic uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on CrimsonLogic where you are prompted to log-in or that are customizable require that you accept cookies.
 
@@ -418,7 +418,7 @@ Advertising networks that serve ads onto CrimsonLogic web sites may also use the
 
 CrimsonLogic also collects IP addresses for system administration and to report aggregate information to our advertisers. In addition, CrimsonLogic includes IP addresses in outgoing mail message headers.
 
-5 . UPDATING INFORMATION
+**5. UPDATING INFORMATION**
 
 Your employer's appointed system administrator will be able to edit your personal information at any time.
 
