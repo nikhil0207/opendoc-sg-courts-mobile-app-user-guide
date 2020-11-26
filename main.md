@@ -323,13 +323,11 @@ This setting will be enabled when the biometric feature is enabled. It is defaul
 
 Your feedback will help us improve the app.
 
+Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crimsonlogic.com.sg).
+
 Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
 
 You can give feedback by clicking the “Feedback” button on the Dashboard in the App.  Alternatively, You can also provide feedback at: [https://tinyurl.com/sgcourtsfeedback](https://tinyurl.com/sgcourtsfeedback). 
-
-## Contact Us
-
-Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crimsonlogic.com.sg).
 
 ## FAQ
 
