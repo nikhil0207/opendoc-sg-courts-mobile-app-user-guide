@@ -249,17 +249,6 @@ This setting will be enabled when the biometric feature is enabled. It is defaul
 ![](/assets/9_Settings.png)
 
 -----
-## Give us your feedback
-
-Your feedback will help us improve the app.
-
-Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crimsonlogic.com.sg).
-
-Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
-
-You can give feedback by clicking the “Feedback” button on the Dashboard in the App.  Alternatively, You can also provide feedback at: [https://tinyurl.com/sgcourtsfeedback](https://tinyurl.com/sgcourtsfeedback). 
-
------
 ## Release Notes
 
 ### Version 1.7.2 
@@ -332,6 +321,21 @@ You can give feedback by clicking the “Feedback” button on the Dashboard in 
 * Intermittent display issues with venue info and UI alignment issues will be made available in the upcoming releases.
 
 -----
+## Give us your feedback
+
+Your feedback will help us improve the app.
+
+Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
+
+You can give feedback by clicking the “Feedback” button on the Dashboard in the App.  Alternatively, You can also provide feedback at: [https://tinyurl.com/sgcourtsfeedback](https://tinyurl.com/sgcourtsfeedback). 
+
+-----
+
+## Contact Us
+
+Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crimsonlogic.com.sg).
+
+-----
 ## FAQ
 
 ### What is SG Courts Mobile App?
@@ -379,7 +383,8 @@ You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crim
 
 **If you are unable to find an answer to your query, please submit your [feedback](https://tinyurl.com/sgcourtsfeedback) to let us know how we can help you.**
 
-# Privacy Policy
+## Privacy Policy
+
 In this Privacy Policy, terms with initial upper case have the same meaning given to them in the Terms of Use.
 
 1 .  COLLECTION OF INFORMATION
