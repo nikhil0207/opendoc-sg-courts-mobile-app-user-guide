@@ -352,7 +352,7 @@ Yes! SG Courts Mobile App is free. All you need is a smartphone and internet con
 
 ### Can I install the SG Courts Mobile app on multiple devices?
 
-SG Courts Mobile App can be installed on multiple mobile device at a time. 
+SG Courts Mobile App can be installed on multiple mobile devices at the same time. 
 
 ### How do I download and install SG Courts Mobile App?
 
