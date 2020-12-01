@@ -19,7 +19,7 @@ styling_options:
   logo_url: /
 folders:
   - name: /
-    title: SG Courts Mobile App Use Guide
+    title: SG Courts Mobile App User Guide
     order:
       - main.md
 hide_toolbar:
