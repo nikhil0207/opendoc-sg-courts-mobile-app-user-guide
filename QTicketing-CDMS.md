@@ -24,7 +24,7 @@ User shall see the following queue ticket statuses reflected in the hearing card
 
 User can click on the toggle button from left to right to indicate that he/she is setting the Adjournment Status.
 
-
+![](/assets/5b_CDMSTicket_4a.png)
 
 ### Join Virtual Hearing
 
