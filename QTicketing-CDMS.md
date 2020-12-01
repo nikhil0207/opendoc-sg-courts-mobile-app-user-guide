@@ -187,7 +187,7 @@ You can also search for hearings, by entering any of the following into the sear
 
 ![](/assets/5a_MyHearings.png)
 
-###  Get Q Ticket for Hearings in Supreme Court
+##  Get Q Ticket for Hearings in Supreme Court
 
 1. The user shall click on the “Get Q Ticket” button in the hearing item, the user will be directed to the following steps in the right. 
 2. Complete the Questionnaire listed and click “Get Q Ticket”.
@@ -195,19 +195,19 @@ You can also search for hearings, by entering any of the following into the sear
 
 ![](/assets/5b_CDMSTicket_1.png)
 
-### Set Ready for Hearing in Supreme Court
+## Set Ready for Hearing in Supreme Court
 
 If the hearing has not been set as ready for hearing, User can click on the toggle button from left to right to indicate that he/she is Ready for Hearing if the user did not indicate readiness during getting the Q Ticket initially. 
 
 ![](/assets/5b_CDMSTicket_3a.png)
 
-### Queue Notification for Hearing in Supreme Court
+## Queue Notification for Hearing in Supreme Court
 
 User shall see the following queue ticket statuses reflected in the hearing card when the Q Ticket is either **second in line** or **first in line**.
 
 ![](/assets/5b_CDMSTicket_2.png)
 
-### Set Adjournment Status for Hearing in Supreme Court
+## Set Adjournment Status for Hearing in Supreme Court
 
 User can click on the toggle button from left to right to indicate that he/she is setting the Adjournment Status.
 
