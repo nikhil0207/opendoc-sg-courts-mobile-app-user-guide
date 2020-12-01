@@ -1,0 +1,34 @@
+# SG Courts Mobile App 
+
+###  Get Q Ticket for Hearings in Supreme Court
+
+1. The user shall click on the “Get Q Ticket” button in the hearing item, the user will be directed to the following steps in the right. 
+2. Complete the Questionnaire listed and click “Get Q Ticket”.
+3. The Q Ticket shall be generated and displayed. Click on Proceed to go back to My Hearings.
+
+![](/assets/5b_CDMSTicket_1.png)
+
+### Set Ready for Hearing in Supreme Court
+
+If the hearing has not been set as ready for hearing, User can click on the toggle button from left to right to indicate that he/she is Ready for Hearing if the user did not indicate readiness during getting the Q Ticket initially. 
+
+![](/assets/5b_CDMSTicket_3a.png)
+
+### Queue Notification for Hearing in Supreme Court
+
+User shall see the following queue ticket statuses reflected in the hearing card when the Q Ticket is either **second in line** or **first in line**.
+
+![](/assets/5b_CDMSTicket_2.png)
+
+### Set Adjournment Status for Hearing in Supreme Court
+
+User can click on the toggle button from left to right to indicate that he/she is setting the Adjournment Status.
+
+![](/assets/5b_CDMSTicket_4a.png)
+
+### Join Virtual Hearing
+
+1. User can click on the camera button at the top right of the hearing card to view the virtual hearing details.
+2. When the popup appears, the user can click on Join Hearing button to launch Zoom to join the virtual hearing. 
+
+NOTE: Zoom app must be installed as a pre-requisite. 
