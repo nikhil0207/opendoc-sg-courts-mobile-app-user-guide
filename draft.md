@@ -218,7 +218,8 @@ User can click on the toggle button from left to right to indicate that he/she i
 1. User can click on the camera button at the top right of the hearing card to view the virtual hearing details.
 2. When the popup appears, the user can click on Join Hearing button to launch Zoom to join the virtual hearing. 
 
-NOTE: Zoom app must be installed as a pre-requisite. 
+**NOTE:** Zoom app must be installed as a pre-requisite. 
+
 ## My Cases 
 After you have clicked on the My Cases icon in the dashboard, you will be able to view your cases and your law firm cases. 
 
