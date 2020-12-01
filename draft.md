@@ -220,9 +220,7 @@ User can click on the toggle button from left to right to indicate that he/she i
 
 **NOTE:** Zoom app must be installed as a pre-requisite. 
 
-
 ![](/assets/5c_VirtualHearing.png)
-
 
 ## My Cases 
 After you have clicked on the My Cases icon in the dashboard, you will be able to view your cases and your law firm cases. 
