@@ -7,6 +7,12 @@
 3. The Q Ticket shall be generated and displayed. Click on Proceed to go back to Dashboard.
 4. User shall see the queue status and the Q Ticket reflected for the hearing. 
 
+![](/assets/5b_CDMSTicket_1.png)
+
+![](/assets/5b_CDMSTicket_2.png)
+
+![](/assets/5b_CDMSTicket_3.png)
+
 ### Set Ready for Hearing in Supreme Court
 
 If the hearing has not been set as ready for hearing, User can click on the toggle button from left to right to indicate that he/she is Ready for Hearing if the user did not indicate readiness during getting the Q Ticket initially. 
