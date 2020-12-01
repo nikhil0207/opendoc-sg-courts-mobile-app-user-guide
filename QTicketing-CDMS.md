@@ -1,5 +1,3 @@
-# SG Courts Mobile App 
-
 ###  Get Q Ticket for Hearings in Supreme Court
 
 1. The user shall click on the “Get Q Ticket” button in the hearing item, the user will be directed to the following steps in the right. 
@@ -29,6 +27,8 @@ User can click on the toggle button from left to right to indicate that he/she i
 ### Join Virtual Hearing
 
 1. User can click on the camera button at the top right of the hearing card to view the virtual hearing details.
-2. When the popup appears, the user can click on Join Hearing button to launch Zoom to join the virtual hearing. 
+2. When the popup appears, the user can click on **Join Hearing** button to launch Zoom to join the virtual hearing. 
 
-NOTE: Zoom app must be installed as a pre-requisite. 
+**NOTE:** Zoom app must be installed as a pre-requisite. 
+
+![](/assets/5c_VirtualHearing.png)
