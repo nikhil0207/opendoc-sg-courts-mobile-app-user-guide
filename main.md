@@ -30,7 +30,9 @@ To find out more about our latest releases and updates, check our **[Release Not
 
 ## Enable your Mobile App Access
 
-Please get your **eLitigation administrator** to enable the *Mobile App Access*  in your user profile. 
+Please approach your **eLitigation administrator** to enable the Mobile App Access  in your user profile. 
+
+*NOTE: You will get an error message "Unauthorized User Access" if the Mobile App Access is not enabled. *
 
 **For eLitigation Administrator:**
 
