@@ -32,7 +32,7 @@ To find out more about our latest releases and updates, check our **[Release Not
 
 Please approach your **eLitigation administrator** to enable the Mobile App Access  in your user profile. 
 
-*NOTE: You will get an error message "Authorization has been denied for this request. Please refer to the FAQ for more details. " if the Mobile App Access is not enabled. *
+NOTE: You will get an error message "Authorization has been denied for this request. Please refer to the FAQ for more details." if the Mobile App Access is not enabled.
 
 **For eLitigation Administrator:**
 
@@ -382,10 +382,6 @@ The supported devices are:
 * iPAD
 
 ### Authorization has been denied for this request. What should i do?
-
-You can refer to the section on **Enabling the Mobile App Access** to enable your mobile app access.  
-
-### Unauthorized Access, What should i do?
 
 You can refer to the section on **Enabling the Mobile App Access** to enable your mobile app access.  
 
