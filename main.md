@@ -3,7 +3,7 @@ Check your case files, court calendar, upcoming hearings, venue info online. For
 
 ## Getting started
 
-Thank you for showing your interest in the testing for the SG Courts Mobile App (“the App”). The App will be the focal point for the Judiciary’s e-services. The App allows for:
+Thank you for showing your interest in the SG Courts Mobile App (“the App”). The App will be the focal point for the Judiciary’s e-services. The App allows for:
 
 *  access to your case files;
 *  access to your hearing calendar; and
@@ -15,6 +15,7 @@ Information collected will be used only for purposes of the beta test – inform
 
 Try out the newest features. (Sometimes these may be a little rough around the edges.) 
 
+* 	Get your administrator to enable your Mobile App Access in your user profile. 
 * 	Login using your CorpPass credentials
 * 	Biometric login (option to enable after initial CorpPass login)
 * 	Access your eLitigation cases
@@ -26,6 +27,21 @@ Try out the newest features. (Sometimes these may be a little rough around the e
      (*) planned feature
 
 To find out more about our latest releases and updates, check our **[Release Notes](https://sg-courts-mobile-app-user-guide-staging.opendoc.gov.sg/main.html#release-notes)** for more information.   
+
+## Enable your Mobile App Access
+
+Please get your **eLitigation administrator** to enable the *Mobile App Access*  in your user profile. 
+
+**For eLitigation Administrator:**
+
+1. Login to eLitigation
+2. Go to ADMINISTRATION - MANAGE USERS
+3. Edit the user profile that require Mobile App Access. 
+4. Tick the **Mobile App Access Enabled** checkbox. 
+5. Click Save button. 
+
+![](/assets/0_eLitAdmin_EnableAccess.png)
+
 
 ## Install for iPhones and iPads
 
@@ -339,6 +355,7 @@ SG Courts Mobile App is a mobile application that is available on iOS and Androi
 * access to your upcoming hearing list.
 
 More features will be added to the app so keep your app updated!
+
 ### Who is eligible for SG Courts Mobile App?
 
 The users who are eligible for SG Courts Mobile App are the existing eLitigation subscribers. 
@@ -361,6 +378,10 @@ The supported devices are:
 * Android devices 
 * iPhone
 * iPAD
+
+### Unauthorized Access, What should i do?
+
+You can refer to the section on **Enabling the Mobile App Access** to enable your mobile app access.  
 
 ### How do I enable my biometric authentication?
 
