@@ -185,27 +185,23 @@ NOTE: **Zoom** app ***must*** be installed.
 
 ![](/assets/6_MyCases.png)
 
-### View Case File
+### Case File Details
 
-After the case row is clicked, you will be able to view the case file with the following tabs:
+See details of theeach of your case files with the following in different tabs:
 
-- **Case** – this tab contains Case Information, Nature of Case, Claim details (if applicable), Case Relationships.
--	**Sub Cases** – this tab contains the sub cases that are created in the main case
--	**Party** – this tab contains the Party Information.
--	**Hearings** – this tab contains the list of hearings scheduled for the case. You can also use keyword search in the hearing list. 
--	**Documents** – this tab contains the list of documents filed in the case. You can also use keyword search in the document list. Refer to the next section for more details. 
+- **Case** – see Case Information, Nature of Case, Claim details (if applicable), Case Relationships.
+-	**Sub Cases** – see Sub Cases that are created in under the main case
+-	**Party** – see Party Information.
+-	**Hearings** – see hearings scheduled for the case. 
+-	**Documents** – see documents filed in the case. 
 
 ![](/assets/7_CaseFile.png)
 
-### View Case Documents
+To reduce mobile/telco charges:
 
-You are able to open and view the documents in the Documents tab. 
+* turn on **Document Cache** in the **Settings** module to store case documents on your device instead of fetching them from the server each time. Cached documents are identified by a green icon;
 
-If you like to reduce the use of mobile/telco bandwidth, you can choose to turn on **Document Cache** in the **Settings** module, the Documents will be stored on your device so that it does not have to be fetched from the server each time. The cached documents have a *green* icon.
-
-Open and Cache document locally by switching on the **Document Cache** toggle, so system does not need to retrieve it from the server again next time.   
-
-**Recommendation**: Use WIFI to reduce the use of mobile/telco bandwidth when opening large documents.
+* use WIFI when opening large documents.
 
 ![](/assets/8a_Documents.png)
 
