@@ -206,39 +206,37 @@ To reduce mobile/telco charges:
 ![](/assets/8a_Documents.png)
 
 ## Settings
-In the Settings module, you can define the following settings.
+In Settings, set your preferred options. 
 
 ### Application related
 
-**Records display per page**
+**Records displayed per page**
 
-This setting defines the number of records to load when you scroll downwards to load more page(s).  It is defaulted to 10 records. You can choose to load up to 50 records per page. 
-
+Defaulted to 10 records per page,. You can choose to load up to 50 records per page. 
 
 **Document Cache**
 
-This setting, when enabled, allows you to cache documents when the document is opened. 
-You can also configure to clear the document cache after every [x] number of days. The default is 5 days, max up to 15 days. 
+Configure to clear documents that are cached when opened after every [x] days. The default is 5 days, max up to 15 days.
 
-You can also manually clear all cached documents by clicking on the Clear button. 
+Manually clear all cached documents by clicking **Clear** button.
 
 **Hearing Period to display in Calendar**
 
-This setting defines the period of hearings to be displayed in the calendar. The default is 3 days, max up to 3 months. 
+Defaulted to 3 days before and after current date, max up to 3 months.
 
 ### Security related
 
 **Login using Touch ID/Fingerprint**
 
-This is the biometric authentication feature for easy login to the app. If you enable Touch ID/Fingerprint/Face ID, you will not need to use CorpPass credentials in the subsequent logins after the initial setting up of the App. The App Notifications will be enabled after the biometric authentication is enabled. 
+Set biometric authentication with Touch ID/Fingerprint/Face ID for easy login to the App after initial set up using CorpPass
 
 **Enable Notifications**
 
-This setting will be enabled when the biometric feature is enabled. It is defaulted to receive notifications for all cases. You can choose to change to either of the following:
+App notifications will be enabled when biometric authentication is enabled. Notifications can be set as:
 
-*	**All Cases** – this means enabling notifications for all the cases under your law firm. 
-*	**My Cases** – this means enabling notifications for your cases only. 
-*	**None** – this means disabling notifications for all cases.
+*	**All Cases** – notifications for all cases under your law firm (default setting); or 
+*	**My Cases** – notifications for cases you represent only; or
+*	**None** – no notifications at all.
 
 ![](/assets/9_Settings.png)
 
@@ -249,8 +247,8 @@ This setting will be enabled when the biometric feature is enabled. It is defaul
 
 **What's new**
 - Updated App Icon, Splash Screen, Login Screen
-- Hearings are marked as "(Vacated)" for vacated hearings. 
-- Added Feedback button in the dashboard.
+- Hearings marked as "(Vacated)" for vacated hearings. 
+- Feedback button added in dashboard.
 - Security improvements.
 
 **Known Issues**
@@ -262,12 +260,12 @@ This setting will be enabled when the biometric feature is enabled. It is defaul
 **What's new**
 - Temporary rebranding of the App
 - For Law Firm Users who login using CorpPass
-	- Rename Upcoming Hearings to My Hearings.
-	- View the list of court hearing venues and your hearings scheduled in the venue for the day.
-	- Removal of Case Title for FJC cases in My Hearings and Venue Info.
-	- See an icon on the hearing in My Hearings if the case is represented by you (who is logged in).
-	- Court orders will have Authentic Court Order features.
-	- Security improvements.
+	-	**Upcoming Hearings** renamed as **My Hearings**.
+	-	See the list of court hearing venues and your hearings scheduled in the venue for the day.
+	- Icon appears against case represented by you in My Hearings.
+	- Authentic Court Order features for court orders.
+	- Security improvements
+
 
 **Known Issues**
 - Document sharing for iOS is not available.
@@ -276,6 +274,7 @@ This setting will be enabled when the biometric feature is enabled. It is defaul
 
 **What's new**
 - Law Firm Users who login using CorpPass
+- 
 	- View hearings in the Hearing List for Today, Tomorrow, This Week, or Later (up to the hearing period selected in the settings)
 	- Display hearing outcomes (if provided) in the Hearing List.
 	- Fix Settings page to allow scrolling if the device screen size is smaller.
