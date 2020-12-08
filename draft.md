@@ -3,244 +3,185 @@ Check your case files, court calendar, upcoming hearings, venue info online. For
 
 ## Getting started
 
+The SG Courts Mobile App (“the App”) lets you have convenient access to your case files, hearing calendar, and access more functionality when new versions are released. Current functionality include: 
+
 Thank you for showing your interest in the SG Courts Mobile App (“the App”). The App will be the focal point for the Judiciary’s e-services. The App allows for:
 
-*  access to your case files;
-*  access to your hearing calendar; and
-*  access to your upcoming hearing list.
-
-Future versions of the App will incorporate other E-services. For example, potentially the ability to take queue tickets remotely for hearings, or even to conduct selected hearings via video/teleconference. 
-
-Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
-
-Try out the newest features. (Sometimes these may be a little rough around the edges.) 
-
-* 	Get your administrator to enable your Mobile App Access in your user profile. 
-* 	Login using your CorpPass credentials
-* 	Biometric login (option to enable after initial CorpPass login)
-* 	Access your eLitigation cases
-* 	View your upcoming hearings
-* 	No charge for using the App!
-* 	Take Q ticket remotely for hearings*
-* 	Attend virtual hearings*
+* login using CorpPass credentials
+* biometric login (can be enabled after initial CorpPass login)
+* access to eLitigation cases
+* see upcoming hearings
+* take Q ticket remotely for hearings*
+* attend virtual hearings*
 
      (*) planned feature
 
-To find out more about our latest releases and updates, check our **[Release Notes](https://sg-courts-mobile-app-user-guide-staging.opendoc.gov.sg/main.html#release-notes)** for more information.   
+To get started, get your **eLitigation administrator** to enable Mobile App Access in your eLitigation user profile (see below). 
+
+There is no charge for using the App. Check our **[Release Notes](https://sg-courts-mobile-app-user-guide-staging.opendoc.gov.sg/main.html#release-notes)** for more information on latest releases and updates.
+
+Information collected will be used only for purposes of improving the App – information will not be stored beyond the duration of the relevant testing period.
+
 
 ## Enable your Mobile App Access
-
-Please approach your **eLitigation administrator** to enable the Mobile App Access  in your user profile. 
 
 **For eLitigation Administrator:**
 
 1. Login to eLitigation
-2. Go to ADMINISTRATION - MANAGE USERS
+2. Go to **Administration - Manage Users**
 3. Edit the user profile that require Mobile App Access. 
 4. Tick the **Mobile App Access Enabled** checkbox. 
-5. Click Save button. 
+5. Click **Save** button. 
 
 ![](/assets/0_eLitAdmin_EnableAccess.png)
 
 **NOTE:** 
 
-You will get either of the following error messages if the Mobile App Access is not enabled.
+You will get one of these error messages if Mobile App Access is not enabled:
+*	Authorization has been denied for this request. 
+*	Unauthorized User. 
 
-* Authorization has been denied for this request. Please refer to the FAQ for more details.
-* Unauthorized User. Please refer to the FAQ for more details.
+Please refer to FAQ for more details.
 
-## Install for iPhones and iPads
+## Installation Guide for iPhones and iPads
 
 **Get the App**
 
-Download SG Courts Mobile App for iPhones & iPads.
-This App is available for:
-*  iPad, iPhone, and iPod Touch
+Download **SG Courts Mobile App** for iPhones & iPads. The App is available for:
+*  iPad and iPhone
 *  iOS 12 or later
 
 **Install the App**
 
-On your iPhone or iPad, go to SG Courts Mobile App on the App Store.
-*  Tap Get.
-*  Tap Install.
-*  Enter your Apple ID Password and tap OK.
+On your iPhone or iPad, go to **SG Courts Mobile App** on the App Store.
+*  Tap **Get**.
+*  Tap **Install**.
+*  Enter your Apple ID Password and tap **OK**.
 
-To start using, go to your home screen. Tap on the SG Courts Mobile App.
-Try uninstalling SG Courts Mobile App and reinstalling it to fix problems or any updates.
+To start using the App, tap **SG Courts Mobile App** on your home screen. 
 
-## Install for Android
+If you encounter problems, they can sometimes be resolved by uninstalling and reinstalling the App.
+
+
+## Installation Guide for Android
 
 **Get the App**
 
-Download SG Courts Mobile App for Android phones and tablets. This App is available on phones and tablets running Android 5.0+ (Lollipop).
+Download **SG Courts Mobile App** for Android phones and tablets. Theis App is available on phones and tablets running Android 5.0+.
 
 **Install the App** 
 
-On your Android phone or tablet, go to SG Courts Mobile App on Google Play.
-*  Tap Install.
-*  Tap Accept.
+On your Android phone or tablet, go to **SG Courts Mobile App** on Google Play.
+*  Tap **Install**.
+*  Tap **Accept**.
 
-To start using, go to the Home or All Apps page. Tap the SG Courts Mobile App.
-Try uninstalling SG Courts Mobile App and reinstalling it to fix problems or any updates.
+To start using, go to the **Home** or **All Apps** page. Tap **SG Courts Mobile App**. 
+
+If you encounter problems, they can sometimes be resolved by uninstalling and reinstalling the App.
 
 ## Get Updates when available
 
-SG Courts Mobile App should automatically update based upon your Play Store settings.
-You can check if there's a new version available:
+The App should automatically update if your device is set up to receive App updates automatically. You can also manually check if a new version is available:
 
-**iPhone & iPads**
+**iPhone & iPad**
 
-* One your iPhone & iPad, open the App Store.
-* At the top right, tap Profile.
-* Scroll down to "Available Updates" and search for SG Courts Mobile App.
-* If the App is listed, tap **Update** to install.
-* If asked, enter your Apple ID and password. The updates will download and install.
+* One your iPhone & iPad, select **App Store**.
+* At the top right, tap **Profile**.
+* Scroll down to **Available Updates** and search for **SG Courts Mobile App**.
+* If the App is listed, tap **Update**.
+* If asked, enter your Apple ID and password. The update will download and install.
 
 **Android devices**
 
-* On your Android phone or tablet, open the Play Store App.
-* At the top left, tap Menu = > My Apps & Games.
-* Under "Updates," find SG Courts Mobile App.
-* If you're having problems updating the App, check our troubleshooting guide for more
-* information.
+* On your Android phone or tablet, select **Play Store**.
+* At the top left, tap **Menu > My Apps & Games**.
+* Under **Updates**, find **SG Courts Mobile App**.
 
 ## Login to the App
 
-Once the App has been downloaded and installed onto your mobile device, launch it and log in using your CorpPass credentials. You can use the SingPass Mobile App on your mobile phone, if you have that all set up. 
+Note: You must be an existing eLitigation user in order to use the App.
 
-Note: you must be an existing eLitigation subscriber.
-
-Click on the **CorpPass icon** and Sign in with your **CorpPass credentials** (UEN/Entity ID, CorpPass ID, Password).
-
-If you have more than one law firm profile, you will need to select the correct law firm profile to use.
+* Launch the App and login using your CorpPass credentials. You can use the SingPass Mobile App if you have that all set up.
+* Click on **CorpPass** icon and sign in with your **CorpPass credentials** (UEN/Entity ID, CorpPass ID, Password).
+*	If you have more than one law firm profiles, you will need to select the correct law firm profile to use. 
 
 ![](/assets/1a_Login.png)
 
 ## Dashboard
 
-Once you have logged in successfully, you will be able to see the dashboard and prompted to enable biometric authentication. You will be able to login to the app using your fingerprint and receive app notifications after it's enabled.  
+After logging in, you will see the dashboard and be prompted to enable biometric authentication. You can login to the App using your phone’s biometric capabilities (e.g., fingerprint or facial recognition) and receive App notifications.
 
 ![](/assets/2a_Dashboard.png)
 
-**Header Panel**
+* Notifications are highlighted with a red indicator on the bell icon.
+* Calendar shows your hearing calendar. 
+* Venue Info shows information about hearings in all courts. 
+* Feedback allows you to submit feedback about the App.
+* My Hearings lists hearings of cases specifically assigned to you.
+* My Cases shows cases specifically assigned to you, or other cases handled by your firm. 
 
-In the Header panel, it contains a Logged in via CorpPass indicator, your **login name** and your **law firm name**.  You can choose to **Log out** of the App from here. This will lead you to the login screen. 
-
-At the top right corner, you can read your **case notifications** by clicking on the bell icon.
-
-**Quick Links Panel**
-
-In the Quick Links panel, you can click on the **Calendar** icon and it will lead you to view your Hearings Calendar. You can also click on the **Venue Info** icon and it will lead you to view the hearing venues in the courts. You can click on the **Feedback** icon and give your feedbacks on the App.
-
-**Overview Panel**
-
-In the Overview panel, you can click on the **My Hearings** and **My Cases** icons to access your hearings and case files.
-
-You can see the number of hearings scheduled for today in the **My Hearings** button. Click on the My Hearings button to view hearings and get Q Ticket.
-
-You can also see the number of cases you are representing in the **My Cases** button. Click on the My Cases button to view your cases and your law firm cases.
-
-**Navigation Bar**
-
-In the navigation bar at the bottom of the screen, you can:
-
-* Click on **Home** button to return to the Dashboard
-* Click on **Hearings** button to go to the My Hearings module
-* Click on **Cases** button to go to My Cases module
-* Click on **Venue** button to go to Venue Info module
-* Click on **More** button to go to the Application Settings
 
 ## Hearing Calendar
 
-After you have clicked on the Calendar icon in the dashboard, you will be able to view your
-hearings scheduled in Day, Week or Month view. You are able to view hearings up to 3 days before and after by default, you can change the Hearing Period to display via the **Settings** module.
+* Calendar shows your hearings. 
+* Choose to see daily, weekly or monthly views. 
+* See hearings 3 days before and after current date (default setting). Change default setting in Settings. 
 
 ![](/assets/3_Calendars.png)
 
 ## Venue Info
 
-After you have clicked on the Venue Info icon in the dashboard, you will be able to view the hearing venues for the 3 courts, by toggling using the top bar: 
-
-* Supreme Court,
-* State Courts, and
-* Family Justice Courts
-
-You are able to view the number of hearings scheduled in the venues as well. 
-
-You can also search for the venue by entering either the venue name or the code. 
-
-To find out more about the hearings scheduled in the venue, you can click on the venue row and view the list of hearings scheduled for today.  
+**Venue Info** provides information about your hearings, arranged by hearing venues. 
 
 ![](/assets/4a_VenueInfo.png)
 
 ## My Hearings
 
-After you have clicked on the My Hearings icon in the dashboard, you will be able to view your scheduled.
-
-You are able to view hearings up to 3 days before and after by default, you can change the Hearing Period to display via the **Settings** module. 
-
-You can also search for hearings, by entering any of the following into the search bar:
-* Case Number 
-* Hearing Time
-* Hearing Type
-* Venue
+*	**My Hearings** lists your scheduled hearings. 
+*	See today's hearings and 3 days after the current day (default setting). Change default setting in Settings.
+*	Search for hearings using Case Number, Hearing Type, Venue or other common criteria. 
 
 ![](/assets/5a_MyHearings.png)
 
 ###  Get Q Ticket for Hearings in Supreme Court
 
-1. The user shall click on the “Get Q Ticket” button in the hearing item, the user will be directed to the following steps in the right. 
-2. Complete the Questionnaire listed and click “Get Q Ticket”.
-3. The Q Ticket shall be generated and displayed. Click on Proceed to go back to My Hearings.
+*	Click on **Get Q Ticket** button under **My Hearings**.
+*	Complete questionnaire and click **Get Q Ticket** button to generate Q Ticket.
+*	Click on **Close** button to go back to **My Hearings**.
 
 ![](/assets/5b_CDMSTicket_1a.png)
 
 ### Set Ready for Hearing in Supreme Court
 
-If the hearing has not been set as ready for hearing, User can click on the toggle button from left to right to indicate that he/she is Ready for Hearing if the user did not indicate readiness during getting the Q Ticket initially. 
+Toggle button to indicate you are **Ready for Hearing** if you did not do so when getting Q Ticket. 
 
 ![](/assets/5b_CDMSTicket_3a.png)
 
 ### Queue Notification for Hearing in Supreme Court
 
-User shall see the following queue ticket statuses reflected in the hearing card when the Q Ticket is either **second in line** or **first in line**.
+App will indicate when your queue status is either **second** or **first in line**.
 
 ![](/assets/5b_CDMSTicket_2.png)
 
 ### Set Adjournment Status for Hearing in Supreme Court
 
-User can click on the toggle button from left to right to indicate that he/she is setting the Adjournment Status.
+Toggle button to indicate that you are setting the **Adjournment Status**.
 
 ![](/assets/5b_CDMSTicket_4a.png)
 
 ### Join Virtual Hearing
 
-1. User can click on the camera button at the top right of the hearing card to view the virtual hearing details.
-2. When the popup appears, the user can click on **Join Hearing** button to launch Zoom to join the virtual hearing. 
+* Click on **camera** button to see virtual hearing information.
+* When pop-up appears, click on **Join Hearing** button to launch **Zoom**.
 
-**NOTE:** Zoom app must be installed as a pre-requisite. 
+NOTE: **Zoom** app ***must*** be installed.
 
 ![](/assets/5c_VirtualHearing.png)
 
 ## My Cases 
-After you have clicked on the My Cases icon in the dashboard, you will be able to view your cases and your law firm cases. 
 
-You can also search for your cases and your law firm’s cases by entering by entering either of the following into the search bar:
-
-- Case number 
-- Case name
-
-Alternatively, you can click on the Filter icon at the right side of the keyword search textbox, to filter the list of cases by the following:
-
--	Forum
--	Case Type
--	Case Serial Number
--	Case Year
--	Sub Case Type
--	Sub Case Serial Number
--	Sub Case Year
-
-Click on the **Case row** to view the case file in detail.
+*	**My Cases** shows cases specifically assigned to you, or other cases handled by your firm. 
+*	Filter or search for cases based on Case Number, Case Name and other common criteria.
 
 ![](/assets/6_MyCases.png)
 
