@@ -193,7 +193,7 @@ You can also search for hearings, by entering any of the following into the sear
 2. Complete the Questionnaire listed and click “Get Q Ticket”.
 3. The Q Ticket shall be generated and displayed. Click on Proceed to go back to My Hearings.
 
-![](/assets/5b_CDMSTicket_1.png)
+![](/assets/5b_CDMSTicket_1a.png)
 
 ### Set Ready for Hearing in Supreme Court
 
