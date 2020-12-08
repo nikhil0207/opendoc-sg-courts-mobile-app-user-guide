@@ -369,7 +369,7 @@ Refer to **Login using biometric authentication**.
 
 ### Will SG Courts Mobile App have access to all my personal files in my phone?
 
-The SG Courts Mobile App requires your "Device ID" to tie your device to your eLitigation account as part of the verification process during logins. It is a common requirement for apps to request for certain permissions so as to facilitate transactions. Please be assured that the app does not access, read or store any of your personal files.
+The App does not access, read or store any of your personal files. It requires your “Device ID” to tie your device to your eLitigation account as part of the login verification process.
 
 ### Where can I get help?
 
