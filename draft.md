@@ -246,26 +246,25 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 *released on 25 Nov 2020*
 
 **What's new**
-- Updated App Icon, Splash Screen, Login Screen
-- Hearings marked as "(Vacated)" for vacated hearings. 
-- Feedback button added in dashboard.
-- Security improvements.
+* Updated App Icon, Splash Screen, Login Screen
+* Hearings marked as "(Vacated)" for vacated hearings. 
+* Feedback button added in dashboard.
+* Security improvements.
 
 **Known Issues**
-- Document sharing for iOS is not available.
+* Document sharing for iOS is not available.
 
 ### Version 1.7.1 
 *released on 5 Nov 2020*
 
 **What's new**
-- Temporary rebranding of the App
-- For Law Firm Users who login using CorpPass
+* Temporary rebranding of the App
+* For Law Firm Users who login using CorpPass
 	-	**Upcoming Hearings** renamed as **My Hearings**.
 	-	See the list of court hearing venues and your hearings scheduled in the venue for the day.
 	- Icon appears against case represented by you in My Hearings.
 	- Authentic Court Order features for court orders.
 	- Security improvements
-
 
 **Known Issues**
 - Document sharing for iOS is not available.
@@ -273,81 +272,81 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 ### Version 1.6.10
 
 **What's new**
-- Law Firm Users who login using CorpPass
-- 
-	- View hearings in the Hearing List for Today, Tomorrow, This Week, or Later (up to the hearing period selected in the settings)
+
+* Law Firm Users who login using CorpPass
+	- See Hearing Lists for Today, Tomorrow, This Week, or Later (per period indicated in **Settings**)
 	- Display hearing outcomes (if provided) in the Hearing List.
-	- Fix Settings page to allow scrolling if the device screen size is smaller.
-	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
-	- Choose to enable notifications for All cases, My cases, or None (Disable notifications).
-	- Share documents by using the icon at the top right when the case document is opened.
-	- See an icon on the case in Law Firm Cases if the case is represented by you (who is logged in).
+	- Allow for scrolling if the device screen size is small.
+	- See the list of court hearing venues and hearings scheduled in the venue for the day.  
+	- App notifications enabled.
+	- Share documents by using icon when the case document is opened.
+	- Icon on the to indicate cases you are counsel for in Law Firm Cases.
 
 **Known Issues**
-- Document sharing of court order will not have Authentic Court Orders features.
-- Intermittent display issues with venue info and UI alignment issues will be made available in the upcoming releases.
+* Document sharing of court order will not have Authentic Court Orders features.
+* Intermittent display issues with **Venue Info** and UI alignment issues.
 
 ### Version 1.6.9
 
 **What's new**
 1. Law Firm Users who login using CorpPass
 
-	- View hearings in the Hearing List for Today, Tomorrow, This Week, or Later (up to the hearing period selected in the settings)
-	- Display hearing outcomes (if provided) in the Hearing List.
-	- Fix Settings page to allow scrolling if the device screen size is smaller.
-	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
-	- Choose to enable notifications for All cases, My cases, or None (Disable notifications).
+	- Access case(s), case related information and document(s) filed.
 	- Share documents by using the icon at the top right when the case document is opened.
-	- See an icon on the case in Law Firm Cases if the case is represented by you (who is logged in).
+	- See hearings scheduled in **Upcoming Hearing**  and **Calendar**.
+	- See list of court hearing venues and the hearings scheduled in the venue for the day.
 
 2. Litigant in person can login to the app using SingPass
 
 	- Access case(s), case related information and document(s) filed.
 	- Share documents by using the icon at the top right when the case document is opened.
-	- View hearings scheduled in the Upcoming Hearing List and Calendar.
-	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
+	- See hearings scheduled in **Upcoming Hearing** and **Calendar**.
+	- See list of court hearing venues and the hearings scheduled in the venue for the day.
 
 **Known Issues**
 
 * Document sharing of court order will not have Authentic Court Orders features.
-* Intermittent display issues with venue info and UI alignment issues will be made available in the upcoming releases.
+* Intermittent display issues with **Venue Info** and UI alignment issues.
 
-## Give us your feedback
+## Feedback
 
-Your feedback will help us improve the app.
+Your feedback will help us improve the app. Use Feedback button on the dashboard or go to:  [https://tinyurl.com/sgcourtsfeedback](https://tinyurl.com/sgcourtsfeedback). .
 
-Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crimsonlogic.com.sg).
+Have questions or need help? Contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crimsonlogic.com.sg).
 
-Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
-
-You can give feedback by clicking the “Feedback” button on the Dashboard in the App.  Alternatively, You can also provide feedback at: [https://tinyurl.com/sgcourtsfeedback](https://tinyurl.com/sgcourtsfeedback). 
+Information collected will be used only for purposes of improving the App – information will not be stored beyond the duration of the relevant testing period.
 
 ## FAQ
 
 ### What is SG Courts Mobile App?
 
-SG Courts Mobile App is a mobile application that is available on iOS and Android operating systems. You can use it to:
-* access to your case files;
-* access to your hearing calendar; and
-* access to your upcoming hearing list.
+SG Courts Mobile App is a mobile application that allows you to:
 
-More features will be added to the app so keep your app updated!
+*	access your case files
+*	access your hearing calendar
+*	access your upcoming hearing list
+*	take Q Ticket remotely for hearings*
+*	attend virtual hearings*
 
-### Who is eligible for SG Courts Mobile App?
+    (*) planned feature
 
-The users who are eligible for SG Courts Mobile App are the existing eLitigation subscribers. 
+More features will be added to the App so keep it updated!
 
-### Is the SG Courts Mobile App free?
+### Who can use SG Courts Mobile App?
 
-Yes! SG Courts Mobile App is free. All you need is a smartphone and internet connection to log in, even when you are overseas.
+Existing eLitigation subscribers. 
+
+### Is SG Courts Mobile App free?
+
+Yes, all you need is a smartphone and internet connection to login, even from overseas.
 
 ### Can I install the SG Courts Mobile app on multiple devices?
 
-SG Courts Mobile App can be installed on multiple mobile devices at the same time. 
+Yes, the App can be installed on multiple mobile devices at the same time. 
 
 ### How do I download and install SG Courts Mobile App?
 
-You can refer to the section Install for iPhones and iPads or Install for Android for more details. 
+Refer to **Installation Guide for iPhone and iPad** or **Installation Guide for Android**. 
 
 ### Which are the supported devices for SG Courts Mobile App?
 
@@ -358,15 +357,15 @@ The supported devices are:
 
 ### Unauthorized User. What should i do?
 
-You can refer to the section on **Enabling the Mobile App Access** to enable your mobile app access.  
+Refer to **Enabling the Mobile App Access**.  
 
 ### Authorization has been denied for this request. What should i do?
 
-You can refer to the section on **Enabling the Mobile App Access** to enable your mobile app access.  
+Refer to **Enabling the Mobile App Access**.  
 
 ### How do I enable my biometric authentication?
 
-You can refer to the section on Login using Touch ID/Fingerprint/Face ID to enable to biometric authentication. 
+Refer to **Login using biometric authentication**.
 
 ### Will SG Courts Mobile App have access to all my personal files in my phone?
 
