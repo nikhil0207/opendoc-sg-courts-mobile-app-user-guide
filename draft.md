@@ -43,7 +43,7 @@ You will get one of these error messages if Mobile App Access is not enabled:
 
 Please refer to FAQ for more details.
 
-## Installation Guide for iPhones and iPads
+## Installation Guide for iPhone and iPad
 
 **Get the App**
 
