@@ -56,7 +56,7 @@ Download **SG Courts Mobile App** for iPhones & iPads. The App is available for:
 On your iPhone or iPad, go to **SG Courts Mobile App** on App Store.
 *  Tap **Get**.
 *  Tap **Install**.
-*  Enter your Apple ID Password and tap **OK**.
+*  Enter your Apple ID password and tap **OK**.
 
 To start using the App, tap **SG Courts Mobile App** on your home screen. 
 
