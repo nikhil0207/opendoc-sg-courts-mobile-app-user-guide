@@ -67,11 +67,11 @@ If you encounter problems, they can sometimes be resolved by uninstalling and re
 
 **Get the App**
 
-Download **SG Courts Mobile App** for Android phones and tablets. Theis App is available on phones and tablets running Android 5.0+.
+Download **SG Courts Mobile App** for Android phones and tablets. The App is available on phones and tablets running Android 5.0+.
 
 **Install the App** 
 
-On your Android phone or tablet, go to **SG Courts Mobile App** on Google Play.
+On your Android phone or tablet, go to **SG Courts Mobile App** on Google Play: 
 *  Tap **Install**.
 *  Tap **Accept**.
 
@@ -79,7 +79,7 @@ To start using, go to the **Home** or **All Apps** page. Tap **SG Courts Mobile 
 
 If you encounter problems, they can sometimes be resolved by uninstalling and reinstalling the App.
 
-## Get Updates when available
+## Get updates when available
 
 The App should automatically update if your device is set up to receive App updates automatically. You can also manually check if a new version is available:
 
