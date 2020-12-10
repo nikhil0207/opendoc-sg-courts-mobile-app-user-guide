@@ -142,12 +142,13 @@ Venue Info provides information about your hearings in all courts, arranged by h
 ![](/assets/5a_MyHearings.png)
 
 ### Get Queue Ticket for Hearings (Supreme Court) *
-
+  * () Planned feature, may only be accessible to closed group of testers during testing period.*
+  * 
 * Click on Get Q Ticket button under My Hearings.
 * Complete questionnaire and click Get Q Ticket button to generate Q Ticket.
 * Click on Close button to go back to My Hearings.
 
-   (*) Planned feature, may only be accessible to closed group of testers during testing period.
+
 
 ![](/assets/5b_CDMSTicket_1a.png)
 
