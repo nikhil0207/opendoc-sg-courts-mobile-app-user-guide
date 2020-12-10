@@ -98,54 +98,32 @@ The App should automatically update if your device is set up to receive App upda
 
 ## Login to the App
 
-Once the App has been downloaded and installed onto your mobile device, launch it and log in using your CorpPass credentials. You can use the SingPass Mobile App on your mobile phone, if you have that all set up. 
+Note: You must be an existing eLitigation user in order to use the App.
 
-Note: you must be an existing eLitigation subscriber.
-
-Click on the **CorpPass icon** and Sign in with your **CorpPass credentials** (UEN/Entity ID, CorpPass ID, Password).
-
-If you have more than one law firm profile, you will need to select the correct law firm profile to use.
+* Launch the App and login using your CorpPass credentials. You can use the SingPass Mobile App if you have that all set up.
+* Click on CorpPass icon and sign in with your CorpPass credentials (UEN/Entity ID, CorpPass ID, Password).
+* If you have multiple law firm profiles, select the correct one to use.
 
 ![](/assets/1a_Login.png)
 
 ## Dashboard
 
-Once you have logged in successfully, you will be able to see the dashboard and prompted to enable biometric authentication. You will be able to login to the app using your fingerprint and receive app notifications after it's enabled.  
+After logging in, you will see the dashboard and be prompted to enable biometric authentication. You can login to the App using your phone’s biometric capabilities (e.g., fingerprint or facial recognition) and receive App notifications.
 
 ![](/assets/2a_Dashboard.png)
 
-**Header Panel**
+* Notifications are highlighted with a red indicator on the **bell** icon.
+* **Calendar** shows your hearing calendar. 
+* **Venue Info** shows information about hearings in all courts. 
+* **Feedback** allows you to submit feedback about the App. 
+* **My Hearings** lists hearings of cases in which you are counsel on record.
+* **My Cases** shows cases in which you are counsel on record, or other cases handled by your firm. 
 
-In the Header panel, it contains a Logged in via CorpPass indicator, your **login name** and your **law firm name**.  You can choose to **Log out** of the App from here. This will lead you to the login screen. 
+## Calendar
 
-At the top right corner, you can read your **case notifications** by clicking on the bell icon.
-
-**Quick Links Panel**
-
-In the Quick Links panel, you can click on the **Calendar** icon and it will lead you to view your Hearings Calendar. You can also click on the **Venue Info** icon and it will lead you to view the hearing venues in the courts. You can click on the **Feedback** icon and give your feedbacks on the App.
-
-**Overview Panel**
-
-In the Overview panel, you can click on the **My Hearings** and **My Cases** icons to access your hearings and case files.
-
-You can see the number of hearings scheduled for today in the **My Hearings** button. Click on the My Hearings button to view hearings and get Q Ticket.
-
-You can also see the number of cases you are representing in the **My Cases** button. Click on the My Cases button to view your cases and your law firm cases.
-
-**Navigation Bar**
-
-In the navigation bar at the bottom of the screen, you can:
-
-* Click on **Home** button to return to the Dashboard
-* Click on **Hearings** button to go to the My Hearings module
-* Click on **Cases** button to go to My Cases module
-* Click on **Venue** button to go to Venue Info module
-* Click on **More** button to go to the Application Settings
-
-## Hearing Calendar
-
-After you have clicked on the Calendar icon in the dashboard, you will be able to view your
-hearings scheduled in Day, Week or Month view. You are able to view hearings up to 3 days before and after by default, you can change the Hearing Period to display via the **Settings** module.
+* Calendar shows your hearings. 
+* Choose to see daily, weekly or monthly views. 
+* See hearings 3 days before and after current date (default setting). Change default setting in Settings. 
 
 ![](/assets/3_Calendars.png)
 
