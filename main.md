@@ -84,7 +84,7 @@ The App should automatically update if your device is set up to receive App upda
 
 **iPhone & iPad**
 
-* One your iPhone & iPad, open **App Store**.
+* One your iPhone & iPad, select **App Store**.
 * At the top right, tap **Profile**.
 * Scroll down to **Available Updates** and search for **SG Courts Mobile App**.
 * If the App is listed, tap **Update**.
@@ -92,11 +92,9 @@ The App should automatically update if your device is set up to receive App upda
 
 **Android devices**
 
-* On your Android phone or tablet, open the Play Store App.
-* At the top left, tap Menu = > My Apps & Games.
-* Under "Updates," find SG Courts Mobile App.
-* If you're having problems updating the App, check our troubleshooting guide for more
-* information.
+* On your Android phone or tablet, select **Play Store**.
+* At the top left, tap **Menu > My Apps & Games**.
+* Under **Updates**, find **SG Courts Mobile App**.
 
 ## Login to the App
 
