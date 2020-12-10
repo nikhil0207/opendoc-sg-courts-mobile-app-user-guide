@@ -200,56 +200,43 @@ See details of each of your case files in different tabs:
 
 To reduce mobile/telco charges:
 
-*	turn on Document Cache in Settings to store case documents on your device instead of fetching them from the server each time. Cached documents are identified by a green icon;
+*	turn on **Document Cache** in **Settings** to store case documents on your device instead of fetching them from the server each time. Cached documents are identified by a green icon;
 *	use WIFI when opening large documents.
-
-
-### View Case Documents
-
-You are able to open and view the documents in the Documents tab. 
-
-If you like to reduce the use of mobile/telco bandwidth, you can choose to turn on **Document Cache** in the **Settings** module, the Documents will be stored on your device so that it does not have to be fetched from the server each time. The cached documents have a *green* icon.
-
-Open and Cache document locally by switching on the **Document Cache** toggle, so system does not need to retrieve it from the server again next time.   
-
-**Recommendation**: Use WIFI to reduce the use of mobile/telco bandwidth when opening large documents.
 
 ![](/assets/8a_Documents.png)
 
 ## Settings
-In the Settings module, you can define the following settings.
+In Settings, set your preferred options.
 
 ### Application related
 
-**Records display per page**
+**Records displayed per page**
 
-This setting defines the number of records to load when you scroll downwards to load more page(s).  It is defaulted to 10 records. You can choose to load up to 50 records per page. 
-
+Defaulted to 10 records per page, choose to load up to 50 records per page.
 
 **Document Cache**
 
-This setting, when enabled, allows you to cache documents when the document is opened. 
-You can also configure to clear the document cache after every [x] number of days. The default is 5 days, max up to 15 days. 
+To clear documents that are cached when opened after every [x] days. The default is 5 days, max up to 15 days.
 
-You can also manually clear all cached documents by clicking on the Clear button. 
+Manually clear all cached documents by clicking **Clear** button.
 
-**Hearing Period to display in Calendar**
+**Hearings displayed in Calendar**
 
-This setting defines the period of hearings to be displayed in the calendar. The default is 3 days, max up to 3 months. 
+Defaulted to 3 days before and after current date, max up to 3 months.
 
 ### Security related
 
-**Login using Touch ID/Fingerprint**
+**Login using biometric authentication**
 
-This is the biometric authentication feature for easy login to the app. If you enable Touch ID/Fingerprint/Face ID, you will not need to use CorpPass credentials in the subsequent logins after the initial setting up of the App. The App Notifications will be enabled after the biometric authentication is enabled. 
+Set biometric authentication with Touch ID/Fingerprint/Face ID for easy login to the App after initial setup using CorpPass.
 
-**Enable Notifications**
+**Enable notifications**
 
-This setting will be enabled when the biometric feature is enabled. It is defaulted to receive notifications for all cases. You can choose to change to either of the following:
+App notifications will be enabled when biometric authentication is enabled. Notifications can be set as:
 
-*	**All Cases** – this means enabling notifications for all the cases under your law firm. 
-*	**My Cases** – this means enabling notifications for your cases only. 
-*	**None** – this means disabling notifications for all cases.
+*	**All Cases** – notifications for all cases under your law firm (default setting); or
+*	**My Cases** – only notifications for cases in which you are counsel on record ; or
+*	**None** – no notifications at all.
 
 ![](/assets/9_Settings.png)
 
