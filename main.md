@@ -259,17 +259,15 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 *released on 5 Nov 2020*
 
 **What's new**
-- Temporary rebranding of the App
-- For Law Firm Users who login using CorpPass
-	- Rename Upcoming Hearings to My Hearings.
-	- View the list of court hearing venues and your hearings scheduled in the venue for the day.
-	- Removal of Case Title for FJC cases in My Hearings and Venue Info.
-	- See an icon on the hearing in My Hearings if the case is represented by you (who is logged in).
-	- Court orders will have Authentic Court Order features.
+* Temporary rebranding of the App
+* For Law Firm Users who login using CorpPass
+	- **Upcoming Hearings** renamed as **My Hearings**.
+	- Icon appears against case for which you are counsel on record in **My Hearings**
+	- Authentic Court Order features for court orders.
 	- Security improvements.
 
 **Known Issues**
-- Document sharing for iOS is not available.
+* Document sharing for iOS is not available.
 
 ### Version 1.6.10
 
