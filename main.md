@@ -142,7 +142,7 @@ Venue Info provides information about your hearings in all courts, arranged by h
 ![](/assets/5a_MyHearings.png)
 
 ### Get Queue Ticket for Hearings (Supreme Court) *
-> [*] This is a planned feature, may only be accessible to closed group of testers during testing period.
+(\*) *Planned feature, may only be accessible to closed group of testers during testing period.*
   
 * Click on Get Q Ticket button under My Hearings.
 * Complete questionnaire and click Get Q Ticket button to generate Q Ticket.
@@ -154,7 +154,7 @@ Venue Info provides information about your hearings in all courts, arranged by h
 
 ### Set “Ready for Hearing” (Supreme Court) *
 
-> [*] This is a planned feature, may only be accessible to closed group of testers during testing period.
+(\*) *Planned feature, may only be accessible to closed group of testers during testing period.*
 
 Toggle button to indicate you are Ready for Hearing if you did not do so when getting Q Ticket.
 
@@ -162,7 +162,7 @@ Toggle button to indicate you are Ready for Hearing if you did not do so when ge
 
 ### Queue Notification for Hearing (Supreme Court) *
 
-> [*] This is a planned feature, may only be accessible to closed group of testers during testing period.
+(\*) *Planned feature, may only be accessible to closed group of testers during testing period.*
 
 App will indicate when your queue status is either second or first in line:
 
@@ -171,7 +171,7 @@ App will indicate when your queue status is either second or first in line:
 
 ### “Set Adjournment Status” for Hearing (Supreme Court) *
 
-> [*] This is a planned feature, may only be accessible to closed group of testers during testing period.
+(\*) *Planned feature, may only be accessible to closed group of testers during testing period.*
 
 Toggle button to indicate that you are seeking for an Adjournment at the hearing.
 
@@ -179,7 +179,7 @@ Toggle button to indicate that you are seeking for an Adjournment at the hearing
 
 ### Join Virtual Hearing *
 
-> [*] This is a planned feature, may only be accessible to closed group of testers during testing period.
+(\*) *Planned feature, may only be accessible to closed group of testers during testing period.*
 
 *	Click on camera button to see virtual hearing information.
 *	When pop-up appears, click on Join Hearing button to launch Zoom.
