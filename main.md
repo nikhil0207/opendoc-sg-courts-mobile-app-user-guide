@@ -80,16 +80,15 @@ If you encounter problems, they can sometimes be resolved by uninstalling and re
 
 ## Get Updates when available
 
-SG Courts Mobile App should automatically update based upon your Play Store settings.
-You can check if there's a new version available:
+The App should automatically update if your device is set up to receive App updates automatically. You can also manually check if a new version is available:
 
-**iPhone & iPads**
+**iPhone & iPad**
 
-* One your iPhone & iPad, open the App Store.
-* At the top right, tap Profile.
-* Scroll down to "Available Updates" and search for SG Courts Mobile App.
-* If the App is listed, tap **Update** to install.
-* If asked, enter your Apple ID and password. The updates will download and install.
+* One your iPhone & iPad, open **App Store**.
+* At the top right, tap **Profile**.
+* Scroll down to **Available Updates** and search for **SG Courts Mobile App**.
+* If the App is listed, tap **Update**.
+* If asked, enter your Apple ID and password. Updates will download and install.
 
 **Android devices**
 
