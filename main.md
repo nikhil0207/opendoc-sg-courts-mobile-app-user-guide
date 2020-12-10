@@ -330,9 +330,9 @@ SG Courts Mobile App is a mobile application that allows you to:
 	 
 More features will be added to the App so keep it updated!
 
-### Who is eligible for SG Courts Mobile App?
+### Who can use SG Courts Mobile App?
 
-The users who are eligible for SG Courts Mobile App are the existing eLitigation subscribers. 
+Existing eLitigation subscribers.
 
 ### Is the SG Courts Mobile App free?
 
