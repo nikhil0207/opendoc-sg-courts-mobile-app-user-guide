@@ -272,14 +272,12 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 ### Version 1.6.10
 
 **What's new**
-- Law Firm Users who login using CorpPass
-	- View hearings in the Hearing List for Today, Tomorrow, This Week, or Later (up to the hearing period selected in the settings)
-	- Display hearing outcomes (if provided) in the Hearing List.
-	- Fix Settings page to allow scrolling if the device screen size is smaller.
-	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
-	- Choose to enable notifications for All cases, My cases, or None (Disable notifications).
-	- Share documents by using the icon at the top right when the case document is opened.
-	- See an icon on the case in Law Firm Cases if the case is represented by you (who is logged in).
+* Law Firm Users who login using CorpPass
+	- See hearing lists for Today, Tomorrow, This Week, or Later (per period indicated in **Settings**).
+	- Display hearing outcomes (if provided) in the hearing list.
+	- Allow for scrolling if device screen size is small.
+	- App notifications enabled.
+	- Icon to indicate cases for which you are counsel on record in Law Firm Cases.
 
 **Known Issues**
 - Document sharing of court order will not have Authentic Court Orders features.
