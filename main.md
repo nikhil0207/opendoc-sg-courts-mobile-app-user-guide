@@ -206,6 +206,7 @@ To reduce mobile/telco charges:
 ![](/assets/8a_Documents.png)
 
 ## Settings
+
 In Settings, set your preferred options.
 
 ### Application related
@@ -246,10 +247,10 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 *released on 25 Nov 2020*
 
 **What's new**
-- Updated App Icon, Splash Screen, Login Screen
-- Hearings are marked as "(Vacated)" for vacated hearings. 
-- Added Feedback button in the dashboard.
-- Security improvements.
+* Updated App icon, splash screen, login screen.
+* Hearings marked as “(Vacated)” for vacated hearings.
+* Feedback button added in dashboard.
+* Security improvements.
 
 **Known Issues**
 - Document sharing for iOS is not available.
