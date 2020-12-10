@@ -3,85 +3,80 @@ Check your case files, court calendar, upcoming hearings, venue info online. For
 
 ## Getting started
 
-Thank you for showing your interest in the SG Courts Mobile App (“the App”). The App will be the focal point for the Judiciary’s e-services. The App allows for:
+The SG Courts Mobile App (“the App”) lets you have convenient access to your case files, hearing calendar, and access more functionality when new versions are released. Current functionality include: 
 
-*  access to your case files;
-*  access to your hearing calendar; and
-*  access to your upcoming hearing list.
-
-Future versions of the App will incorporate other E-services. For example, potentially the ability to take queue tickets remotely for hearings, or even to conduct selected hearings via video/teleconference. 
-
-Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
-
-Try out the newest features. (Sometimes these may be a little rough around the edges.) 
-
-* 	Get your administrator to enable your Mobile App Access in your user profile. 
-* 	Login using your CorpPass credentials
-* 	Biometric login (option to enable after initial CorpPass login)
-* 	Access your eLitigation cases
-* 	View your upcoming hearings
-* 	No charge for using the App!
-* 	Take Q ticket remotely for hearings*
-* 	Attend virtual hearings*
+* login using CorpPass credentials
+* biometric login (can be enabled after initial CorpPass login)
+* access to eLitigation cases
+* see upcoming hearings
+* take Q ticket remotely for hearings*
+* attend virtual hearings*
 
      (*) planned feature
 
-To find out more about our latest releases and updates, check our **[Release Notes](https://sg-courts-mobile-app-user-guide-staging.opendoc.gov.sg/main.html#release-notes)** for more information.   
+To get started, get your eLitigation administrator to enable Mobile App Access in your eLitigation user profile (see below). 
+
+There is no charge for using the App. Check our  **[Release Notes](https://sg-courts-mobile-app-user-guide-staging.opendoc.gov.sg/main.html#release-notes)** for more information on latest releases and updates.
+
+Information collected will be used only for purposes of improving the App – information will not be stored beyond the duration of the relevant testing period.
 
 ## Enable your Mobile App Access
 
-Please approach your **eLitigation administrator** to enable the Mobile App Access  in your user profile. 
-
 **For eLitigation Administrator:**
 
-1. Login to eLitigation
-2. Go to ADMINISTRATION - MANAGE USERS
-3. Edit the user profile that require Mobile App Access. 
-4. Tick the **Mobile App Access Enabled** checkbox. 
-5. Click Save button. 
+1.	Login to eLitigation.
+2.	Go to **Administration - Manage Users**.
+3.	Edit user profile of user requiring Mobile App Access.
+4.	Ensure **Mobile App Access Enabled** checkbox is checked.
+5.	Click Save button.
 
 ![](/assets/0_eLitAdmin_EnableAccess.png)
 
 **NOTE:** 
 
-You will get either of the following error messages if the Mobile App Access is not enabled.
+You will get one of these error messages if Mobile App Access is not enabled:
 
-* Authorization has been denied for this request. Please refer to the FAQ for more details.
-* Unauthorized User. Please refer to the FAQ for more details.
+*	Authorization has been denied for this request. 
+*	Unauthorized User.
 
-## Install for iPhones and iPads
+## Installation Guide for iPhone and iPad
 
 **Get the App**
 
-Download SG Courts Mobile App for iPhones & iPads.
-This App is available for:
-*  iPad, iPhone, and iPod Touch
-*  iOS 12 or later
+Download **SG Courts Mobile App** for iPhones & iPads. The App is available for: 
+
+* iPad, and iPhone  
+*	iOS 12 or later 
 
 **Install the App**
 
-On your iPhone or iPad, go to SG Courts Mobile App on the App Store.
-*  Tap Get.
-*  Tap Install.
-*  Enter your Apple ID Password and tap OK.
+On your iPhone or iPad, go to **SG Courts Mobile App** on App Store:
 
-To start using, go to your home screen. Tap on the SG Courts Mobile App.
-Try uninstalling SG Courts Mobile App and reinstalling it to fix problems or any updates.
+*  Tap **Get**.
+*  Tap **Install**.
+*  Enter your Apple ID password and tap **OK**.
 
-## Install for Android
+To start using the App, tap **SG Courts Mobile App** on your home screen. 
+
+If you encounter problems, they can sometimes be resolved by uninstalling and reinstalling the App.
+
+
+## Installation Guide for Android
 
 **Get the App**
 
-Download SG Courts Mobile App for Android phones and tablets. This App is available on phones and tablets running Android 5.0+ (Lollipop).
+Download **SG Courts Mobile App** for Android phones and tablets. The App is available on phones and tablets running Android 5.0+. 
 
 **Install the App** 
 
-On your Android phone or tablet, go to SG Courts Mobile App on Google Play.
-*  Tap Install.
-*  Tap Accept.
+On your Android phone or tablet, go to **SG Courts Mobile App** on Google Play Store:
 
-To start using, go to the Home or All Apps page. Tap the SG Courts Mobile App.
-Try uninstalling SG Courts Mobile App and reinstalling it to fix problems or any updates.
+*  Tap **Install**.
+*  Tap **Accept**.
+
+To start using, go to the Home or All Apps page. Tap **SG Courts Mobile App**. 
+
+If you encounter problems, they can sometimes be resolved by uninstalling and reinstalling the App.
 
 ## Get Updates when available
 
