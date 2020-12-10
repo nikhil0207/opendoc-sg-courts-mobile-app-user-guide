@@ -338,9 +338,9 @@ Existing eLitigation subscribers.
 
 Yes, all you need is a smartphone and internet connection to login, even from overseas.
 
-### Can I install the SG Courts Mobile app on multiple devices?
+### Can I install SG Courts Mobile App on multiple devices?
 
-SG Courts Mobile App can be installed on multiple mobile devices at the same time. 
+Yes, the App can be installed on multiple mobile devices at the same time.
 
 ### How do I download and install SG Courts Mobile App?
 
