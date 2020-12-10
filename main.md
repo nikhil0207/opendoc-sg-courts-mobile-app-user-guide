@@ -280,43 +280,39 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 	- Icon to indicate cases for which you are counsel on record in Law Firm Cases.
 
 **Known Issues**
-- Document sharing of court order will not have Authentic Court Orders features.
-- Intermittent display issues with venue info and UI alignment issues will be made available in the upcoming releases.
+* Document sharing of court order will not have Authentic Court Orders features.
+* Intermittent display issues with Venue Info and UI alignment issues.
 
 ### Version 1.6.9
 
 **What's new**
 1. Law Firm Users who login using CorpPass
 
-	- View hearings in the Hearing List for Today, Tomorrow, This Week, or Later (up to the hearing period selected in the settings)
-	- Display hearing outcomes (if provided) in the Hearing List.
-	- Fix Settings page to allow scrolling if the device screen size is smaller.
-	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
-	- Choose to enable notifications for All cases, My cases, or None (Disable notifications).
-	- Share documents by using the icon at the top right when the case document is opened.
-	- See an icon on the case in Law Firm Cases if the case is represented by you (who is logged in).
+  -	Access cases, case related information and documents filed.
+  -	Share documents by using icon when case document is opened.
+  -	See hearings scheduled in Upcoming Hearing and Calendar.
+  -	See list of court hearing venues and the hearings scheduled in the venue for the day.
 
 2. Litigant in person can login to the app using SingPass
 
-	- Access case(s), case related information and document(s) filed.
-	- Share documents by using the icon at the top right when the case document is opened.
-	- View hearings scheduled in the Upcoming Hearing List and Calendar.
-	- View the list of court hearing venues and the hearings scheduled in the venue for the day.
+  -	Access cases, case related information and documents filed.
+  -	Share documents by using icon when case document is opened.
+  -	See hearings scheduled in Upcoming Hearing and Calendar.
+  -	See list of court hearing venues and the hearings scheduled in the venue for the day.
 
 **Known Issues**
 
 * Document sharing of court order will not have Authentic Court Orders features.
-* Intermittent display issues with venue info and UI alignment issues will be made available in the upcoming releases.
+*	Intermittent display issues with Venue Info and UI alignment issues.
 
-## Give us your feedback
 
-Your feedback will help us improve the app.
+## Feedback
 
-Questions? You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crimsonlogic.com.sg).
+Your feedback will help us improve the App. Use **Feedback** button on the dashboard or go to: https://tinyurl.com/sgcourtsfeedback.
 
-Information collected will be used only for purposes of the beta test – information will not be stored beyond the duration of the beta testing period.
+Have questions or need help? Contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crimsonlogic.com.sg).
 
-You can give feedback by clicking the “Feedback” button on the Dashboard in the App.  Alternatively, You can also provide feedback at: [https://tinyurl.com/sgcourtsfeedback](https://tinyurl.com/sgcourtsfeedback). 
+Information collected will be used only for purposes of improving the App – information will not be stored beyond the duration of the relevant testing period.
 
 ## FAQ
 
