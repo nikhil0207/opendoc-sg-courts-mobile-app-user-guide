@@ -141,32 +141,52 @@ Venue Info provides information about your hearings in all courts, arranged by h
 
 ![](/assets/5a_MyHearings.png)
 
+### Get Queue Ticket for Hearings (Supreme Court) *
+
+* Click on Get Q Ticket button under My Hearings.
+* Complete questionnaire and click Get Q Ticket button to generate Q Ticket.
+* Click on Close button to go back to My Hearings.
+
+   (*) Planned feature, may only be accessible to closed group of testers during testing period.
+
+![](/assets/5b_CDMSTicket_1a.png)
+
+### Set “Ready for Hearing” (Supreme Court) *
+
+Toggle button to indicate you are Ready for Hearing if you did not do so when getting Q Ticket.
+
+![](/assets/5b_CDMSTicket_3a.png)
+
+### Queue Notification for Hearing (Supreme Court) *
+
+App will indicate when your queue status is either second or first in line:
+
+![](/assets/5b_CDMSTicket_2.png)
 
 
+### “Set Adjournment Status” for Hearing (Supreme Court) *
+
+Toggle button to indicate that you are seeking for an Adjournment at the hearing.
+
+![](/assets/5b_CDMSTicket_4a.png)
+
+### Join Virtual Hearing *
+
+*	Click on camera button to see virtual hearing information.
+*	When pop-up appears, click on Join Hearing button to launch Zoom.
+
+NOTE: Zoom app must be installed.
+
+![](/assets/5c_VirtualHearing.png)
 
 ## My Cases 
-After you have clicked on the My Cases icon in the dashboard, you will be able to view your cases and your law firm cases. 
 
-You can also search for your cases and your law firm’s cases by entering by entering either of the following into the search bar:
+* My Cases shows cases in which you are counsel on record, or other cases handled by your firm. 
+* Filter or search for cases based on Case Number, Case Name and other common criteria.
 
-- Case number 
-- Case name
+![](/assets/6a_MyCases.png)
 
-Alternatively, you can click on the Filter icon at the right side of the keyword search textbox, to filter the list of cases by the following:
-
--	Forum
--	Case Type
--	Case Serial Number
--	Case Year
--	Sub Case Type
--	Sub Case Serial Number
--	Sub Case Year
-
-Click on the **Case row** to view the case file in detail.
-
-![](/assets/6_MyCases.png)
-
-### View Case File
+### Case File Details
 
 After the case row is clicked, you will be able to view the case file with the following tabs:
 
