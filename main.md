@@ -318,12 +318,17 @@ Information collected will be used only for purposes of improving the App – in
 
 ### What is SG Courts Mobile App?
 
-SG Courts Mobile App is a mobile application that is available on iOS and Android operating systems. You can use it to:
-* access to your case files;
-* access to your hearing calendar; and
-* access to your upcoming hearing list.
+SG Courts Mobile App is a mobile application that allows you to:
 
-More features will be added to the app so keep your app updated!
+*	access your case files
+*	access your hearing calendar
+*	access your upcoming hearing list
+*	take Q Ticket remotely for hearings*
+*	attend virtual hearings*
+
+   (*) planned feature
+	 
+More features will be added to the App so keep it updated!
 
 ### Who is eligible for SG Courts Mobile App?
 
