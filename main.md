@@ -334,9 +334,9 @@ More features will be added to the App so keep it updated!
 
 Existing eLitigation subscribers.
 
-### Is the SG Courts Mobile App free?
+### Is SG Courts Mobile App free?
 
-Yes! SG Courts Mobile App is free. All you need is a smartphone and internet connection to log in, even when you are overseas.
+Yes, all you need is a smartphone and internet connection to login, even from overseas.
 
 ### Can I install the SG Courts Mobile app on multiple devices?
 
