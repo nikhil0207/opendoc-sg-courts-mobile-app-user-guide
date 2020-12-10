@@ -253,7 +253,7 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 * Security improvements.
 
 **Known Issues**
-- Document sharing for iOS is not available.
+*	Document sharing for iOS is not available.
 
 ### Version 1.7.1 
 *released on 5 Nov 2020*
