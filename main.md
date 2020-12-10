@@ -188,15 +188,21 @@ NOTE: Zoom app must be installed.
 
 ### Case File Details
 
-After the case row is clicked, you will be able to view the case file with the following tabs:
+See details of each of your case files in different tabs:
 
-- **Case** – this tab contains Case Information, Nature of Case, Claim details (if applicable), Case Relationships.
--	**Sub Cases** – this tab contains the sub cases that are created in the main case
--	**Party** – this tab contains the Party Information.
--	**Hearings** – this tab contains the list of hearings scheduled for the case. You can also use keyword search in the hearing list. 
--	**Documents** – this tab contains the list of documents filed in the case. You can also use keyword search in the document list. Refer to the next section for more details. 
+* **Case** – see Case Information, Nature of Case, Claim details (if applicable), Case Relationships.
+* **Sub Cases** – see Sub Cases under the main case.
+* **Party** – see Party Information.
+* **Hearings** – see hearings scheduled for the case. 
+* **Documents** – see documents filed in the case. 
 
 ![](/assets/7_CaseFile.png)
+
+To reduce mobile/telco charges:
+
+*	turn on Document Cache in Settings to store case documents on your device instead of fetching them from the server each time. Cached documents are identified by a green icon;
+*	use WIFI when opening large documents.
+
 
 ### View Case Documents
 
