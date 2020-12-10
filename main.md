@@ -129,33 +129,20 @@ After logging in, you will see the dashboard and be prompted to enable biometric
 
 ## Venue Info
 
-After you have clicked on the Venue Info icon in the dashboard, you will be able to view the hearing venues for the 3 courts, by toggling using the top bar: 
-
-* Supreme Court,
-* State Courts, and
-* Family Justice Courts
-
-You are able to view the number of hearings scheduled in the venues as well. 
-
-You can also search for the venue by entering either the venue name or the code. 
-
-To find out more about the hearings scheduled in the venue, you can click on the venue row and view the list of hearings scheduled for today.  
+Venue Info provides information about your hearings in all courts, arranged by hearing venues. 
 
 ![](/assets/4a_VenueInfo.png)
 
 ## My Hearings
 
-After you have clicked on the My Hearings icon in the dashboard, you will be able to view your scheduled.
-
-You are able to view hearings up to 3 days before and after by default, you can change the Hearing Period to display via the **Settings** module. 
-
-You can also search for hearings, by entering any of the following into the search bar:
-* Case Number 
-* Hearing Time
-* Hearing Type
-* Venue
+* My Hearings lists your scheduled hearings. 
+* See hearings for today and 3 days after (default setting). Change default setting in Settings.
+* Search for hearings using Case Number, Hearing Type, Venue or other common criteria. 
 
 ![](/assets/5a_MyHearings.png)
+
+
+
 
 ## My Cases 
 After you have clicked on the My Cases icon in the dashboard, you will be able to view your cases and your law firm cases. 
