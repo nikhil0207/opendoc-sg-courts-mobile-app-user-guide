@@ -190,7 +190,7 @@ NOTE: Zoom app **must** be installed.
 
 ## My Cases 
 
-* My Cases shows cases in which you are counsel on record, or other cases handled by your firm. 
+* **My Cases** shows cases in which you are counsel on record, or other cases handled by your firm. 
 * Filter or search for cases based on Case Number, Case Name and other common criteria.
 
 ![](/assets/6a_MyCases.png)
