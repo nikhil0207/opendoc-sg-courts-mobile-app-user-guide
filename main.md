@@ -383,7 +383,7 @@ The App does not access, read or store any of your personal files. It requires y
 
 You can contact us at: [elitigation@crimsonlogic.com.sg](mailto:elitigation@crimsonlogic.com.sg).
 
-**If you are unable to find an answer to your query, please submit your [feedback](https://tinyurl.com/sgcourtsfeedback) to let us know how we can help you.**
+If you are unable to find an answer to your query, please submit your [feedback](https://tinyurl.com/sgcourtsfeedback) to let us know how we can help you.
 
 ## Privacy Policy
 
