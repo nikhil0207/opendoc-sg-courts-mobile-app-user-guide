@@ -135,8 +135,8 @@ After logging in, you will see the dashboard and be prompted to enable biometric
 
 ## My Hearings
 
-* My Hearings lists your scheduled hearings. 
-* See hearings for today and 3 days after (default setting). Change default setting in Settings.
+* **My Hearings** lists your scheduled hearings. 
+* See hearings for today and 3 days after (default setting). Change default setting in **Settings**.
 * Search for hearings using Case Number, Hearing Type, Venue or other common criteria. 
 
 ![](/assets/5a_MyHearings.png)
