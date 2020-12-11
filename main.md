@@ -16,7 +16,7 @@ The SG Courts Mobile App (“the App”) lets you have convenient access to your
 
 To get started, get your eLitigation administrator to enable Mobile App Access in your eLitigation user profile (see below). 
 
-There is no charge for using the App. Check our **[Release Notes](https://sg-courts-mobile-app-user-guide-staging.opendoc.gov.sg/main.html#release-notes)** for more information on latest releases and updates.
+There is no charge for using the App. Check our **[Release Notes](https://sg-courts-mobile-app-user-guide.opendoc.gov.sg/main.html#release-notes)** for more information on latest releases and updates.
 
 Information collected will be used only for purposes of improving the App – information will not be stored beyond the duration of the relevant testing period.
 
