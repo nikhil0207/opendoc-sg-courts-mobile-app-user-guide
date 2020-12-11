@@ -20,7 +20,7 @@ There is no charge for using the App. Check our **[Release Notes](https://sg-cou
 
 Information collected will be used only for purposes of improving the App – information will not be stored beyond the duration of the relevant testing period.
 
-Download the Quick Start-up Guide [here](https://sg-courts-mobile-app-user-guide-staging.opendoc.gov.sg/assets/SG Courts Mobile App One Page Quick Guide.pdf).
+Download the Quick Start-up Guide [here](https://sg-courts-mobile-app-user-guide.opendoc.gov.sg/assets/SG Courts Mobile App One Page Quick Guide.pdf).
 
 ![](/assets/00_OnePageQuickGuide_a.png) 
 
