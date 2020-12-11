@@ -290,7 +290,7 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 
 **Known Issues**
 * Document sharing of court order will not have Authentic Court Orders features.
-* Intermittent display issues with Venue Info and UI alignment issues.
+* Intermittent display issues with **Venue Info** and UI alignment issues.
 
 ### Version 1.6.9
 
@@ -299,20 +299,20 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 
   -	Access cases, case related information and documents filed.
   -	Share documents by using icon when case document is opened.
-  -	See hearings scheduled in Upcoming Hearing and Calendar.
+  -	See hearings scheduled in **Upcoming Hearing** and **Calendar**.
   -	See list of court hearing venues and the hearings scheduled in the venue for the day.
 
 2. Litigant in person can login to the app using SingPass
 
   -	Access cases, case related information and documents filed.
   -	Share documents by using icon when case document is opened.
-  -	See hearings scheduled in Upcoming Hearing and Calendar.
+  -	See hearings scheduled in **Upcoming Hearing** and **Calendar**.
   -	See list of court hearing venues and the hearings scheduled in the venue for the day.
 
 **Known Issues**
 
 * Document sharing of court order will not have Authentic Court Orders features.
-*	Intermittent display issues with Venue Info and UI alignment issues.
+*	Intermittent display issues with **Venue Info** and UI alignment issues.
 
 
 ## Feedback
@@ -365,11 +365,11 @@ The supported devices are:
 
 ### Unauthorized User. What should i do?
 
-Refer to **Enable your Mobile App Access**.
+Enable your Mobile App Access, it should solve the problem. Refer to **Enable your Mobile App Access**.
 
 ### Authorization has been denied for this request. What should i do?
 
-Refer to **Enable your Mobile App Access**.
+Enable your Mobile App Access, it should solve the problem. Refer to **Enable your Mobile App Access**.
 
 ### How to enable biometric authentication?
 
