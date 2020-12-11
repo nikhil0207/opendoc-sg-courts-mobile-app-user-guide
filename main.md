@@ -1,6 +1,11 @@
 # SG Courts Mobile App User Guide
 Check your case files, court calendar, upcoming hearings, venue info online. For use with the Singapore Courts' eLitigation system. 
 
+## One Page Quick Guide
+
+Download the quick guide [here](https://https://sg-courts-mobile-app-user-guide.opendoc.gov.sg//assets/SG Courts Mobile App One Page Quick Guide.pdf).
+
+
 ## Getting started
 
 The SG Courts Mobile App (“the App”) lets you have convenient access to your case files, hearing calendar, and access more functionality when new versions are released. Current functionality include: 
