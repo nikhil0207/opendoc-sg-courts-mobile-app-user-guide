@@ -129,7 +129,7 @@ After logging in, you will see the dashboard and be prompted to enable biometric
 
 ## Venue Info
 
-Venue Info provides information about your hearings in all courts, arranged by hearing venues. 
+**Venue Info** provides information about your hearings in all courts, arranged by hearing venues. 
 
 ![](/assets/4a_VenueInfo.png)
 
