@@ -74,7 +74,7 @@ On your Android phone or tablet, go to **SG Courts Mobile App** on Google Play S
 *  Tap **Install**.
 *  Tap **Accept**.
 
-To start using, go to the Home or All Apps page. Tap **SG Courts Mobile App**. 
+To start using, go to the **Home** or **All Apps** page. Tap **SG Courts Mobile App**. 
 
 If you encounter problems, they can sometimes be resolved by uninstalling and reinstalling the App.
 
