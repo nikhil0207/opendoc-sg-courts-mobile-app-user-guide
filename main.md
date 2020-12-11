@@ -121,9 +121,9 @@ After logging in, you will see the dashboard and be prompted to enable biometric
 
 ## Calendar
 
-* Calendar shows your hearings. 
+* **Calendar** shows your hearings. 
 * Choose to see daily, weekly or monthly views. 
-* See hearings 3 days before and after current date (default setting). Change default setting in Settings. 
+* See hearings 3 days before and after current date (default setting). Change default setting in **Settings**. 
 
 ![](/assets/3_Calendars.png)
 
