@@ -3,6 +3,8 @@ Check your case files, court calendar, upcoming hearings, venue info online. For
 
 ## One Page Quick Guide
 
+![](/assets/00_OnePageQuickGuide.png)
+
 Download the quick guide [here](https://https://sg-courts-mobile-app-user-guide.opendoc.gov.sg//assets/SG Courts Mobile App One Page Quick Guide.pdf).
 
 
