@@ -184,7 +184,7 @@ Toggle button to indicate that you are seeking an adjournment at the hearing.
 *	Click on **camera** button to see virtual hearing information.
 *	When pop-up appears, click on **Join Hearing** button to launch **Zoom**.
 
-NOTE: Zoom app must be installed.
+NOTE: Zoom app **must** be installed.
 
 ![](/assets/5c_VirtualHearing.png)
 
