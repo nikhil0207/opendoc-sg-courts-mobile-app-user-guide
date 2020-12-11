@@ -181,8 +181,8 @@ Toggle button to indicate that you are seeking an adjournment at the hearing.
 
 (\*) *Planned feature, may only be accessible to closed group of testers during testing period.*
 
-*	Click on camera button to see virtual hearing information.
-*	When pop-up appears, click on Join Hearing button to launch Zoom.
+*	Click on **camera** button to see virtual hearing information.
+*	When pop-up appears, click on **Join Hearing** button to launch **Zoom**.
 
 NOTE: Zoom app must be installed.
 
