@@ -164,7 +164,7 @@ Toggle button to indicate you are **Ready for Hearing** if you did not do so whe
 
 (\*) *Planned feature, may only be accessible to closed group of testers during testing period.*
 
-App will indicate when your queue status is either second or first in line:
+App will indicate when your queue status is either **second** or **first** in line:
 
 ![](/assets/5b_CDMSTicket_2.png)
 
@@ -173,7 +173,7 @@ App will indicate when your queue status is either second or first in line:
 
 (\*) *Planned feature, may only be accessible to closed group of testers during testing period.*
 
-Toggle button to indicate that you are seeking for an Adjournment at the hearing.
+Toggle button to indicate that you are seeking an adjournment at the hearing.
 
 ![](/assets/5b_CDMSTicket_4a.png)
 
