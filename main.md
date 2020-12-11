@@ -258,7 +258,7 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 **What's new**
 * Updated App icon, splash screen, login screen.
 * Hearings marked as “(Vacated)” for vacated hearings.
-* Feedback button added in dashboard.
+* **Feedback** button added in dashboard.
 * Security improvements.
 
 **Known Issues**
