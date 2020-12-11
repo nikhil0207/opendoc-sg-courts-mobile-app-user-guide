@@ -28,7 +28,7 @@ Information collected will be used only for purposes of improving the App – in
 2.	Go to **Administration - Manage Users**.
 3.	Edit user profile of user requiring Mobile App Access.
 4.	Ensure **Mobile App Access Enabled** checkbox is checked.
-5.	Click Save button.
+5.	Click **Save** button.
 
 ![](/assets/0_eLitAdmin_EnableAccess.png)
 
@@ -45,7 +45,7 @@ You will get one of these error messages if Mobile App Access is not enabled:
 
 Download **SG Courts Mobile App** for iPhones & iPads. The App is available for: 
 
-* iPad, and iPhone  
+* iPad and iPhone  
 *	iOS 12 or later 
 
 **Install the App**
