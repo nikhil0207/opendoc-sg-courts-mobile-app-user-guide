@@ -114,7 +114,7 @@ After logging in, you will see the dashboard and be prompted to enable biometric
 
 * Notifications are highlighted with a red indicator on the **bell** icon.
 * **Calendar** shows your hearing calendar. 
-* **Venue Info** shows information about hearings in all courts. 
+* **Venue Info** shows information about your hearings in all courts. 
 * **Feedback** allows you to submit feedback about the App. 
 * **My Hearings** lists hearings of cases in which you are counsel on record.
 * **My Cases** shows cases in which you are counsel on record, or other cases handled by your firm. 
