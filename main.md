@@ -101,7 +101,7 @@ The App should automatically update if your device is set up to receive App upda
 Note: You must be an existing eLitigation user in order to use the App.
 
 * Launch the App and login using your CorpPass credentials. You can use the SingPass Mobile App if you have that all set up.
-* Click on CorpPass icon and sign in with your CorpPass credentials (UEN/Entity ID, CorpPass ID, Password).
+* Click on **CorpPass** icon and sign in with your **CorpPass credentials** (UEN/Entity ID, CorpPass ID, Password).
 * If you have multiple law firm profiles, select the correct one to use.
 
 ![](/assets/1a_Login.png)
