@@ -156,7 +156,7 @@ After logging in, you will see the dashboard and be prompted to enable biometric
 
 (\*) *Planned feature, may only be accessible to closed group of testers during testing period.*
 
-Toggle button to indicate you are Ready for Hearing if you did not do so when getting Q Ticket.
+Toggle button to indicate you are **Ready for Hearing** if you did not do so when getting Q Ticket.
 
 ![](/assets/5b_CDMSTicket_3a.png)
 
