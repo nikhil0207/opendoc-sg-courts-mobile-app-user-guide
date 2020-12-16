@@ -1,0 +1,624 @@
+<!-- layout for print export.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="./assets/images/favicon.ico">
+    <link rel="stylesheet" href="./assets/styles/normalize.css">
+    <link rel="stylesheet" href="./assets/styles/main.css">
+  </head>
+
+  <body class="print-content">
+    <section class="description">
+      <img class="description-logo" src="./assets/logo.png">
+      <div class="description-title">SG Courts Mobile App User Guide</div>
+    </section>
+
+    <div class="site-main" aria-label="Content" >
+      
+<h1 id="how-to-create-a-new-opendoc">How to create a new Opendoc</h1>
+
+<h2 id="task-list">Task List</h2>
+
+<p><strong>!!! Check that all the tasks below are completed before deployment</strong></p>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Create new repo from this template</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Update config file (title, icon, color, order, etc…)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Configure github webhook and secret</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Set up netlify/amplify deployment</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Set PDF Lambda env vars</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Change domain settings</li>
+</ul>
+
+<h2 id="github">Github</h2>
+
+<p>Step 1:
+Create a new repo, the name of the repo should follow the convention:</p>
+
+<p><code class="language-plaintext highlighter-rouge">opendoc-&lt;name_of_document&gt;</code></p>
+
+<p>Step 2:
+Clone the template repo onto your local machine</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/opendocsg/opendoc-template.git opendoc-&lt;name_of_document&gt;
+</code></pre></div></div>
+
+<p>Step 3: 
+Change the remote url for the repo on your local machine</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git remote set-url origin https://github.com/opendocsg/opendoc-&lt;name_of_document&gt;.git
+</code></pre></div></div>
+<p>or (if you’re using ssh)</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git remote set-url origin git@github.com:opendocsg/opendoc-&lt;name_of_document&gt;.git
+</code></pre></div></div>
+
+<p>Step 4: 
+Add your converted markdown files into the root directory of the repo</p>
+
+<p>Step 5: 
+Update the following fields in the _config.yml file:</p>
+<ul>
+  <li>title (Required)</li>
+  <li>repository (Required)</li>
+  <li>order (Optional)</li>
+  <li>google_analytics(Optional)</li>
+  <li>styling_options
+    <ul>
+      <li>primary_brand_color (Optional)</li>
+      <li>logo_path (Optional)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Step 6: 
+Commit your changes</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add .
+git commit -m &lt;commit_message&gt;
+</code></pre></div></div>
+
+<p>Step 7:
+Push your changes to the remote branch</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push origin master
+</code></pre></div></div>
+
+<p>Step 8:
+Verify changes on Github</p>
+
+<p>Step 9:
+Setup up webhooks for</p>
+<ul>
+  <li>https://search.opendoc.sg/push</li>
+  <li>https://search-staging.opendoc.sg/push</li>
+</ul>
+
+<p>Ensure Content type is set to <code class="language-plaintext highlighter-rouge">application/json</code></p>
+
+<p>Webhook secret is found in 1Password</p>
+
+<h2 id="netlify">Netlify</h2>
+
+<p>Step 1: 
+On Netlify, click on <code class="language-plaintext highlighter-rouge">New site From Git</code></p>
+
+<p>Step 2:
+Select Github &gt; Select repository</p>
+
+<p>Step 3:
+Click on <code class="language-plaintext highlighter-rouge">Deploy Site</code></p>
+
+<p>Step 4:
+Go to <code class="language-plaintext highlighter-rouge">Domain Settings</code> &gt; click on … on the default subdomain  &gt; <code class="language-plaintext highlighter-rouge">Edit site name</code> &gt; Input new netlify site subdomain</p>
+
+<h1 id="sg-courts-mobile-app-user-guide">SG Courts Mobile App User Guide</h1>
+<p>Check your case files, court calendar, upcoming hearings, venue info online. For use with the Singapore Courts’ eLitigation system.</p>
+
+<h2 id="getting-started">Getting started</h2>
+
+<p>The SG Courts Mobile App (“the App”) lets you have convenient access to your case files, hearing calendar, and access more functionality when new versions are released. Current functionality include:</p>
+
+<ul>
+  <li>login using CorpPass credentials</li>
+  <li>biometric login (can be enabled after initial CorpPass login)</li>
+  <li>access to eLitigation cases</li>
+  <li>see upcoming hearings</li>
+  <li>take Q ticket remotely for hearings*</li>
+  <li>
+    <p>attend virtual hearings*</p>
+
+    <p>(*) planned feature</p>
+  </li>
+</ul>
+
+<p>To get started, get your eLitigation administrator to enable Mobile App Access in your eLitigation user profile (see below).</p>
+
+<p>There is no charge for using the App. Check our <strong><a href="https://sg-courts-mobile-app-user-guide.opendoc.gov.sg/main.html#release-notes">Release Notes</a></strong> for more information on latest releases and updates.</p>
+
+<p>Information collected will be used only for purposes of improving the App – information will not be stored beyond the duration of the relevant testing period.</p>
+
+<p>Download the Quick Start-up Guide <a href="https://sg-courts-mobile-app-user-guide.opendoc.gov.sg/assets/SG Courts Mobile App One Page Quick Guide.pdf">here</a>.</p>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/00_OnePageQuickGuide_a.png" alt="" /></p>
+
+<h2 id="enable-your-mobile-app-access">Enable your Mobile App Access</h2>
+
+<p><strong>For eLitigation Administrator:</strong></p>
+
+<ol>
+  <li>Login to eLitigation.</li>
+  <li>Go to <strong>Administration - Manage Users</strong>.</li>
+  <li>Edit user profile of user requiring Mobile App Access.</li>
+  <li>Ensure <strong>Mobile App Access Enabled</strong> checkbox is checked.</li>
+  <li>Click <strong>Save</strong> button.</li>
+</ol>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/0_eLitAdmin_EnableAccess.png" alt="" /></p>
+
+<p><strong>NOTE:</strong></p>
+
+<p>You will get one of these error messages if Mobile App Access is not enabled:</p>
+
+<ul>
+  <li>Authorization has been denied for this request.</li>
+  <li>Unauthorized User.</li>
+</ul>
+
+<h2 id="installation-guide-for-iphone-and-ipad">Installation Guide for iPhone and iPad</h2>
+
+<p><strong>Get the App</strong></p>
+
+<p>Download <strong>SG Courts Mobile App</strong> for iPhones &amp; iPads. The App is available for:</p>
+
+<ul>
+  <li>iPad and iPhone</li>
+  <li>iOS 12 or later</li>
+</ul>
+
+<p><strong>Install the App</strong></p>
+
+<p>On your iPhone or iPad, go to <strong>SG Courts Mobile App</strong> on App Store:</p>
+
+<ul>
+  <li>Tap <strong>Get</strong>.</li>
+  <li>Tap <strong>Install</strong>.</li>
+  <li>Enter your Apple ID password and tap <strong>OK</strong>.</li>
+</ul>
+
+<p>To start using the App, tap <strong>SG Courts Mobile App</strong> on your home screen.</p>
+
+<p>If you encounter problems, they can sometimes be resolved by uninstalling and reinstalling the App.</p>
+
+<h2 id="installation-guide-for-android">Installation Guide for Android</h2>
+
+<p><strong>Get the App</strong></p>
+
+<p>Download <strong>SG Courts Mobile App</strong> for Android phones and tablets. The App is available on phones and tablets running Android 5.0+.</p>
+
+<p><strong>Install the App</strong></p>
+
+<p>On your Android phone or tablet, go to <strong>SG Courts Mobile App</strong> on Google Play Store:</p>
+
+<ul>
+  <li>Tap <strong>Install</strong>.</li>
+  <li>Tap <strong>Accept</strong>.</li>
+</ul>
+
+<p>To start using, go to the <strong>Home</strong> or <strong>All Apps</strong> page. Tap <strong>SG Courts Mobile App</strong>.</p>
+
+<p>If you encounter problems, they can sometimes be resolved by uninstalling and reinstalling the App.</p>
+
+<h2 id="get-updates-when-available">Get Updates when available</h2>
+
+<p>The App should automatically update if your device is set up to receive App updates automatically. You can also manually check if a new version is available:</p>
+
+<p><strong>iPhone &amp; iPad</strong></p>
+
+<ul>
+  <li>One your iPhone &amp; iPad, select <strong>App Store</strong>.</li>
+  <li>At the top right, tap <strong>Profile</strong>.</li>
+  <li>Scroll down to <strong>Available Updates</strong> and search for <strong>SG Courts Mobile App</strong>.</li>
+  <li>If the App is listed, tap <strong>Update</strong>.</li>
+  <li>If asked, enter your Apple ID and password. Updates will download and install.</li>
+</ul>
+
+<p><strong>Android devices</strong></p>
+
+<ul>
+  <li>On your Android phone or tablet, select <strong>Play Store</strong>.</li>
+  <li>At the top left, tap <strong>Menu &gt; My Apps &amp; Games</strong>.</li>
+  <li>Under <strong>Updates</strong>, find <strong>SG Courts Mobile App</strong>.</li>
+</ul>
+
+<h2 id="login-to-the-app">Login to the App</h2>
+
+<p>Note: You must be an existing eLitigation user in order to use the App.</p>
+
+<ul>
+  <li>Launch the App and login using your CorpPass credentials. You can use the SingPass Mobile App if you have that all set up.</li>
+  <li>Click on <strong>CorpPass</strong> icon and sign in with your <strong>CorpPass credentials</strong> (UEN/Entity ID, CorpPass ID, Password).</li>
+  <li>If you have multiple law firm profiles, select the correct one to use.</li>
+</ul>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/1a_Login.png" alt="" /></p>
+
+<h2 id="dashboard">Dashboard</h2>
+
+<p>After logging in, you will see the dashboard and be prompted to enable biometric authentication. You can login to the App using your phone’s biometric capabilities (e.g., fingerprint or facial recognition) and receive App notifications.</p>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/2a_Dashboard.png" alt="" /></p>
+
+<ul>
+  <li>Notifications are highlighted with a red indicator on the <strong>bell</strong> icon.</li>
+  <li><strong>Calendar</strong> shows your hearing calendar.</li>
+  <li><strong>Venue Info</strong> shows information about your hearings in all courts.</li>
+  <li><strong>Feedback</strong> allows you to submit feedback about the App.</li>
+  <li><strong>My Hearings</strong> lists hearings of cases in which you are counsel on record.</li>
+  <li><strong>My Cases</strong> shows cases in which you are counsel on record, or other cases handled by your firm.</li>
+</ul>
+
+<h2 id="calendar">Calendar</h2>
+
+<ul>
+  <li><strong>Calendar</strong> shows your hearings.</li>
+  <li>Choose to see daily, weekly or monthly views.</li>
+  <li>See hearings 3 days before and after current date (default setting). Change default setting in <strong>Settings</strong>.</li>
+</ul>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/3_Calendars.png" alt="" /></p>
+
+<h2 id="venue-info">Venue Info</h2>
+
+<p><strong>Venue Info</strong> provides information about your hearings in all courts, arranged by hearing venues.</p>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/4a_VenueInfo.png" alt="" /></p>
+
+<h2 id="my-hearings">My Hearings</h2>
+
+<ul>
+  <li><strong>My Hearings</strong> lists your scheduled hearings.</li>
+  <li>See hearings for today and 3 days after (default setting). Change default setting in <strong>Settings</strong>.</li>
+  <li>Search for hearings using Case Number, Hearing Type, Venue or other common criteria.</li>
+</ul>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/5aa_MyHearings.png" alt="" /></p>
+
+<h3 id="get-queue-ticket-for-hearings-supreme-court-">Get Queue Ticket for Hearings (Supreme Court) *</h3>
+<p>(*) <em>Planned feature, may only be accessible to closed group of testers during testing period.</em></p>
+
+<ul>
+  <li>Click on <strong>Get Q Ticket</strong> button under <strong>My Hearings</strong>.</li>
+  <li>Complete questionnaire and click <strong>Get Q Ticket</strong> button to generate Q Ticket.</li>
+  <li>Click on <strong>Close</strong> button to go back to <strong>My Hearings</strong>.</li>
+</ul>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/5b_CDMSTicket_1a.png" alt="" /></p>
+
+<h3 id="set-ready-for-hearing-supreme-court-">Set “Ready for Hearing” (Supreme Court) *</h3>
+
+<p>(*) <em>Planned feature, may only be accessible to closed group of testers during testing period.</em></p>
+
+<p>Toggle button to indicate you are <strong>Ready for Hearing</strong> if you did not do so when getting Q Ticket.</p>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/5b_CDMSTicket_3a.png" alt="" /></p>
+
+<h3 id="queue-notification-for-hearing-supreme-court-">Queue Notification for Hearing (Supreme Court) *</h3>
+
+<p>(*) <em>Planned feature, may only be accessible to closed group of testers during testing period.</em></p>
+
+<p>App will indicate when your queue status is either <strong>second</strong> or <strong>first</strong> in line:</p>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/5b_CDMSTicket_2.png" alt="" /></p>
+
+<h3 id="set-adjournment-status-for-hearing-supreme-court-">“Set Adjournment Status” for Hearing (Supreme Court) *</h3>
+
+<p>(*) <em>Planned feature, may only be accessible to closed group of testers during testing period.</em></p>
+
+<p>Toggle button to indicate that you are seeking an adjournment at the hearing.</p>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/5b_CDMSTicket_4a.png" alt="" /></p>
+
+<h3 id="join-virtual-hearing-">Join Virtual Hearing *</h3>
+
+<p>(*) <em>Planned feature, may only be accessible to closed group of testers during testing period.</em></p>
+
+<ul>
+  <li>Click on <strong>camera</strong> button to see virtual hearing information.</li>
+  <li>When pop-up appears, click on <strong>Join Hearing</strong> button to launch <strong>Zoom</strong>.</li>
+</ul>
+
+<p>NOTE: Zoom app <strong>must</strong> be installed.</p>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/5c_VirtualHearing.png" alt="" /></p>
+
+<h2 id="my-cases">My Cases</h2>
+
+<ul>
+  <li><strong>My Cases</strong> shows cases in which you are counsel on record, or other cases handled by your firm.</li>
+  <li>Filter or search for cases based on Case Number, Case Name and other common criteria.</li>
+</ul>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/6a_MyCases.png" alt="" /></p>
+
+<h3 id="case-file-details">Case File Details</h3>
+
+<p>See details of each of your case files in different tabs:</p>
+
+<ul>
+  <li><strong>Case</strong> – see Case Information, Nature of Case, Claim details (if applicable), Case Relationships.</li>
+  <li><strong>Sub Cases</strong> – see Sub Cases under the main case.</li>
+  <li><strong>Party</strong> – see Party Information.</li>
+  <li><strong>Hearings</strong> – see hearings scheduled for the case.</li>
+  <li><strong>Documents</strong> – see documents filed in the case.</li>
+</ul>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/7_CaseFile.png" alt="" /></p>
+
+<p>To reduce mobile/telco charges:</p>
+
+<ul>
+  <li>turn on <strong>Document Cache</strong> in <strong>Settings</strong> to store case documents on your device instead of fetching them from the server each time. Cached documents are identified by a green icon;</li>
+  <li>use WIFI when opening large documents.</li>
+</ul>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/8a_Documents.png" alt="" /></p>
+
+<h2 id="settings">Settings</h2>
+
+<p>In Settings, set your preferred options.</p>
+
+<h3 id="application-related">Application related</h3>
+
+<p><strong>Records displayed per page</strong></p>
+
+<p>Defaulted to 10 records per page, choose to load up to 50 records per page.</p>
+
+<p><strong>Document Cache</strong></p>
+
+<p>To clear documents that are cached when opened after every [x] days. The default is 5 days, max up to 15 days.</p>
+
+<p>Manually clear all cached documents by clicking <strong>Clear</strong> button.</p>
+
+<p><strong>Hearings displayed in Calendar</strong></p>
+
+<p>Defaulted to 3 days before and after current date, max up to 3 months.</p>
+
+<h3 id="security-related">Security related</h3>
+
+<p><strong>Login using biometric authentication</strong></p>
+
+<p>Set biometric authentication with Touch ID/Fingerprint/Face ID for easy login to the App after initial setup using CorpPass.</p>
+
+<p><strong>Enable notifications</strong></p>
+
+<p>App notifications will be enabled when biometric authentication is enabled. Notifications can be set as:</p>
+
+<ul>
+  <li><strong>All Cases</strong> – notifications for all cases under your law firm (default setting); or</li>
+  <li><strong>My Cases</strong> – only notifications for cases in which you are counsel on record ; or</li>
+  <li><strong>None</strong> – no notifications at all.</li>
+</ul>
+
+<p><img src="/opendoc-sg-courts-mobile-app-user-guide/assets/9_Settings.png" alt="" /></p>
+
+<h2 id="release-notes">Release Notes</h2>
+
+<h3 id="version-172">Version 1.7.2</h3>
+<p><em>released on 25 Nov 2020</em></p>
+
+<p><strong>What’s new</strong></p>
+<ul>
+  <li>Updated App icon, splash screen, login screen.</li>
+  <li>Hearings marked as “(Vacated)” for vacated hearings.</li>
+  <li><strong>Feedback</strong> button added in dashboard.</li>
+  <li>Security improvements.</li>
+</ul>
+
+<p><strong>Known Issues</strong></p>
+<ul>
+  <li>Document sharing for iOS is not available.</li>
+  <li>App is not supported on Android Oreo OS versions</li>
+</ul>
+
+<h3 id="version-171">Version 1.7.1</h3>
+<p><em>released on 5 Nov 2020</em></p>
+
+<p><strong>What’s new</strong></p>
+<ul>
+  <li>Temporary rebranding of the App</li>
+  <li>For Law Firm Users who login using CorpPass
+    <ul>
+      <li><strong>Upcoming Hearings</strong> renamed as <strong>My Hearings</strong>.</li>
+      <li>Icon appears against case for which you are counsel on record in <strong>My Hearings</strong></li>
+      <li>Authentic Court Order features for court orders.</li>
+      <li>Security improvements.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Known Issues</strong></p>
+<ul>
+  <li>Document sharing for iOS is not available.</li>
+</ul>
+
+<h3 id="version-1610">Version 1.6.10</h3>
+
+<p><strong>What’s new</strong></p>
+<ul>
+  <li>Law Firm Users who login using CorpPass
+    <ul>
+      <li>See hearing lists for Today, Tomorrow, This Week, or Later (per period indicated in <strong>Settings</strong>).</li>
+      <li>Display hearing outcomes (if provided) in the hearing list.</li>
+      <li>Allow for scrolling if device screen size is small.</li>
+      <li>App notifications enabled.</li>
+      <li>Icon to indicate cases for which you are counsel on record in Law Firm Cases.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Known Issues</strong></p>
+<ul>
+  <li>Document sharing of court order will not have Authentic Court Orders features.</li>
+  <li>Intermittent display issues with <strong>Venue Info</strong> and UI alignment issues.</li>
+</ul>
+
+<h3 id="version-169">Version 1.6.9</h3>
+
+<p><strong>What’s new</strong></p>
+<ol>
+  <li>Law Firm Users who login using CorpPass</li>
+</ol>
+
+<ul>
+  <li>Access cases, case related information and documents filed.</li>
+  <li>Share documents by using icon when case document is opened.</li>
+  <li>See hearings scheduled in <strong>Upcoming Hearing</strong> and <strong>Calendar</strong>.</li>
+  <li>See list of court hearing venues and the hearings scheduled in the venue for the day.</li>
+</ul>
+
+<ol>
+  <li>Litigant in person can login to the app using SingPass</li>
+</ol>
+
+<ul>
+  <li>Access cases, case related information and documents filed.</li>
+  <li>Share documents by using icon when case document is opened.</li>
+  <li>See hearings scheduled in <strong>Upcoming Hearing</strong> and <strong>Calendar</strong>.</li>
+  <li>See list of court hearing venues and the hearings scheduled in the venue for the day.</li>
+</ul>
+
+<p><strong>Known Issues</strong></p>
+
+<ul>
+  <li>Document sharing of court order will not have Authentic Court Orders features.</li>
+  <li>Intermittent display issues with <strong>Venue Info</strong> and UI alignment issues.</li>
+</ul>
+
+<h2 id="feedback">Feedback</h2>
+
+<p>Your feedback will help us improve the App. Use <strong>Feedback</strong> button on the dashboard or go to: https://tinyurl.com/sgcourtsfeedback.</p>
+
+<p>Have questions or need help? Contact us at: <a href="mailto:elitigation@crimsonlogic.com.sg">elitigation@crimsonlogic.com.sg</a>.</p>
+
+<p>Information collected will be used only for purposes of improving the App – information will not be stored beyond the duration of the relevant testing period.</p>
+
+<h2 id="faq">FAQ</h2>
+
+<h3 id="what-is-sg-courts-mobile-app">What is SG Courts Mobile App?</h3>
+
+<p>SG Courts Mobile App is a mobile application that allows you to:</p>
+
+<ul>
+  <li>access your case files</li>
+  <li>access your hearing calendar</li>
+  <li>access your upcoming hearing list</li>
+  <li>take Q Ticket remotely for hearings*</li>
+  <li>attend virtual hearings*</li>
+</ul>
+
+<p>(*) planned feature</p>
+
+<p>More features will be added to the App so keep it updated!</p>
+
+<h3 id="who-can-use-sg-courts-mobile-app">Who can use SG Courts Mobile App?</h3>
+
+<p>Existing eLitigation subscribers.</p>
+
+<h3 id="is-sg-courts-mobile-app-free">Is SG Courts Mobile App free?</h3>
+
+<p>Yes, all you need is a smartphone and internet connection to login, even from overseas.</p>
+
+<h3 id="can-i-install-sg-courts-mobile-app-on-multiple-devices">Can I install SG Courts Mobile App on multiple devices?</h3>
+
+<p>Yes, the App can be installed on multiple mobile devices at the same time.</p>
+
+<h3 id="how-do-i-download-and-install-sg-courts-mobile-app">How do I download and install SG Courts Mobile App?</h3>
+
+<p>Refer to <strong>Installation Guide for iPhone and iPad</strong> or <strong>Installation Guide for Android</strong>.</p>
+
+<h3 id="in-which-devices-can-sg-courts-mobile-app-be-supported">In which devices can SG Courts Mobile App be supported?</h3>
+
+<p>The supported devices are:</p>
+
+<ul>
+  <li>Android devices</li>
+  <li>iPhone</li>
+  <li>iPAD</li>
+</ul>
+
+<h3 id="unauthorized-user-what-should-i-do">Unauthorized User. What should i do?</h3>
+
+<p>Enable your Mobile App Access, it should solve the problem. Refer to <strong>Enable your Mobile App Access</strong>.</p>
+
+<h3 id="authorization-has-been-denied-for-this-request-what-should-i-do">Authorization has been denied for this request. What should i do?</h3>
+
+<p>Enable your Mobile App Access, it should solve the problem. Refer to <strong>Enable your Mobile App Access</strong>.</p>
+
+<h3 id="how-to-enable-biometric-authentication">How to enable biometric authentication?</h3>
+
+<p>Refer to <strong>Login using biometric authentication</strong>.</p>
+
+<h3 id="will-sg-courts-mobile-app-have-access-to-personal-files-on-my-phone">Will SG Courts Mobile App have access to personal files on my phone?</h3>
+
+<p>The App does not access, read or store any of your personal files. It requires your “Device ID” to tie your device to your eLitigation account as part of the login verification process.</p>
+
+<h3 id="where-can-i-get-help">Where can I get help?</h3>
+
+<p>You can contact us at: <a href="mailto:elitigation@crimsonlogic.com.sg">elitigation@crimsonlogic.com.sg</a>.</p>
+
+<p>If you are unable to find an answer to your query, please submit your <a href="https://tinyurl.com/sgcourtsfeedback">feedback</a> to let us know how we can help you.</p>
+
+<h2 id="privacy-policy">Privacy Policy</h2>
+
+<p>In this Privacy Policy, terms with initial upper case have the same meaning given to them in the Terms of Use.</p>
+
+<p><strong>1.  COLLECTION OF INFORMATION</strong></p>
+
+<p>Some personal information is gathered when you are authorised as a user by your employer, e.g. your SingPass access code and contact particulars like address, e-mail address and telephone numbers. Some transactional information is gathered when you use the Services. Personal information relating to parties or other persons with an interest in or connection to cases filed with the Courts will be collected.</p>
+
+<p><strong>2. USE OF INFORMATION</strong></p>
+
+<p>Your SingPass / CorpPass access code is required to authenticate your access to the Web Site and use of the Services. We make use of contact particulars to push alerts and notifications to you by email and Short Messaging System text messages if you opt to receive them. Your personal information may be used in conjunction with the Services, eg when electronic forms like writs of summons, originating summonses and summonses are generated, your office address and contact numbers may be used. Some transactional information may be kept as records of your activities. Personal information and transactional information are used to electronically sign every document that you upload, submit or transmit.</p>
+
+<p>Personal information about you may be used by CrimsonLogic to improve our marketing efforts, to improve our content and product offerings and to make our site more user-friendly or to serve you better. We may use your email address, your mailing address, and phone number to contact you regarding administrative notices, new product offerings, and communications relevant to your use of the site. Information that we maintain about you and information from your current and past activities on the Site, will be used in the event of disputes or troubleshooting.</p>
+
+<p>Personal information relating to parties or other persons with an interest in or connection to cases filed with the Courts will be kept by the Courts as part of the Services, eg online cause books and registers. Some of such information may be used in conjunction with the Services, eg when electronic forms like probate and letters of administration are generated and to provide online cause book searches.</p>
+
+<p><strong>3. DISCLOSURE OF INFORMATION</strong></p>
+
+<p>Except in accordance with this Privacy Policy, CrimsonLogic will not disclose any of your personal information.</p>
+
+<p>You acknowledge and agree that we are permitted to disclose your personal information to the Courts and/or the Academy and when we believe in good faith that the law requires it.</p>
+
+<p>You acknowledge and agree that personal information relating to parties or other persons with an interest in or connection to cases filed with the Courts and kept by the Courts can and will be used and/or re-used as part of the Services. With no intention to be exhaustive use and/or re-use of such information may include, display in the graphical user interfaces of the Services, generation of electronic forms (eg orders of court, writs of execution, registrar’s certificates), publication of hearing lists, provision of online cause book searches (whether individually or in bulk), notifying other public authorities of the cause or matter or any order, judgment or other direction flowing from the cause of matter, etc.</p>
+
+<p><strong>4. COOKIES</strong></p>
+
+<p>As part of offering and providing customizable and personalized services, CrimsonLogic uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer’s hard drive. All sites on CrimsonLogic where you are prompted to log-in or that are customizable require that you accept cookies.</p>
+
+<p>Generally, we use cookies to:</p>
+
+<p>(1) Remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more  personalized service. Cookies are set when you register or “Sign In” and modified when you “Sign Out” of our services. Cookies are also used to monitor and provide access to certain functions, for example when you file documents.</p>
+
+<p>(2) Estimate our audience size. Each browser accessing CrimsonLogic web sites is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior.</p>
+
+<p>(3) Measure certain traffic patterns, which areas of CrimsonLogic’s network of web sites you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users’ habits are similar or different from one another so that we can make each new experience on CrimsonLogic a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites.</p>
+
+<p>Advertising networks that serve ads onto CrimsonLogic web sites may also use their own cookies.</p>
+
+<p>CrimsonLogic also collects IP addresses for system administration and to report aggregate information to our advertisers. In addition, CrimsonLogic includes IP addresses in outgoing mail message headers.</p>
+
+<p><strong>5. UPDATING INFORMATION</strong></p>
+
+<p>Your employer’s appointed system administrator will be able to edit your personal information at any time.</p>
+
+<p>Amendment of personal information relating to parties or other persons with an interest in or connection to cases filed with the Courts will have to follow the procedures prescribed by law, including the Rules of Court and any relevant Practice Directions.</p>
+
+
+    </div>
+  </body>
+
+</html>
