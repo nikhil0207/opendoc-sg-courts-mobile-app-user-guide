@@ -266,6 +266,7 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 
 **Known Issues**
 *	Document sharing for iOS is not available.
+*	App is not supported on Android Oreo OS versions 
 
 ### Version 1.7.1 
 *released on 5 Nov 2020*
