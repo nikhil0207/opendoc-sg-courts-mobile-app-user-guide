@@ -143,7 +143,8 @@ After logging in, you will see the dashboard and be prompted to enable biometric
 * See hearings for today and 3 days after (default setting). Change default setting in **Settings**.
 * Search for hearings using Case Number, Hearing Type, Venue or other common criteria. 
 
-![](/assets/5a_MyHearings.png)
+
+![](/assets/5aa_MyHearings.png) 
 
 ### Get Queue Ticket for Hearings (Supreme Court) *
 (\*) *Planned feature, may only be accessible to closed group of testers during testing period.*
@@ -151,8 +152,6 @@ After logging in, you will see the dashboard and be prompted to enable biometric
 * Click on **Get Q Ticket** button under **My Hearings**.
 * Complete questionnaire and click **Get Q Ticket** button to generate Q Ticket.
 * Click on **Close** button to go back to **My Hearings**.
-
-
 
 ![](/assets/5b_CDMSTicket_1a.png)
 
@@ -267,6 +266,7 @@ App notifications will be enabled when biometric authentication is enabled. Noti
 
 **Known Issues**
 *	Document sharing for iOS is not available.
+*	App is not supported on Android Oreo OS versions 
 
 ### Version 1.7.1 
 *released on 5 Nov 2020*
