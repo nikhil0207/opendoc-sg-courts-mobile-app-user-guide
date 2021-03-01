@@ -434,3 +434,49 @@ CrimsonLogic also collects IP addresses for system administration and to report 
 Your employer's appointed system administrator will be able to edit your personal information at any time.
 
 Amendment of personal information relating to parties or other persons with an interest in or connection to cases filed with the Courts will have to follow the procedures prescribed by law, including the Rules of Court and any relevant Practice Directions.
+
+```
+<!--To trigger the modal-->
+<button type="button" class="btn btn-primary mr-2" data-toggle="modal" data-target="#jdsModalSizeDefault">Modal - Default</button>
+<!--Start of Modal window-->
+<div class="modal fade" id="jdsModalSizeDefault" tabindex="-1" aria-labelledby="jdsModalSizeDefault" aria-hidden="true" style="display: none;">
+   <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="jdsModalLabel">Modal Title</h5>
+            <button type="button" class="btn close" aria-label="Close" title="Click to Close" data-dismiss="modal"><span class="fal fa-times"></span></button>
+         </div>
+         <div class="modal-body">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
+            a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+         </div>
+         <div class="modal-footer">
+            <button type="button" class="btn btn-light-primary font-weight-bold" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary font-weight-bold">Save changes</button>
+         </div>
+      </div>
+   </div>
+</div>
+<!--End of Modal window--><!--To trigger the modal-->
+<button type="button" class="btn btn-primary mr-2" data-toggle="modal" data-target="#jdsModalSizeDefault">Modal - Default</button>
+<!--Start of Modal window-->
+<div class="modal fade" id="jdsModalSizeDefault" tabindex="-1" aria-labelledby="jdsModalSizeDefault" aria-hidden="true" style="display: none;">
+   <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="jdsModalLabel">Modal Title</h5>
+            <button type="button" class="btn close" aria-label="Close" title="Click to Close" data-dismiss="modal"><span class="fal fa-times"></span></button>
+         </div>
+         <div class="modal-body">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
+            a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+         </div>
+         <div class="modal-footer">
+            <button type="button" class="btn btn-light-primary font-weight-bold" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary font-weight-bold">Save changes</button>
+         </div>
+      </div>
+   </div>
+</div>
+<!--End of Modal window-->
+```
