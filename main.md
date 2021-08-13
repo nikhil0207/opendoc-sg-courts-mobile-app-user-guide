@@ -31,7 +31,7 @@ Download the Quick Start-up Guide [here](https://sg-courts-mobile-app-user-guide
 1.	Login to eLitigation.
 2.	Go to **Administration - Manage Users**.
 3.	Edit user profile of user requiring Mobile App Access.
-4.	Ensure **Mobile App Access Enabled** checkbox is checked.
+4.	Ensure **Mobile App Access Enabled** radio button is selected as "Yes".
 5.	Click **Save** button.
 
 ![](/assets/0_eLitAdmin_EnableAccess.png)
